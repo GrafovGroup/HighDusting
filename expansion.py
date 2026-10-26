@@ -49,7 +49,6 @@ FR={
 'Add photos or videos (optional)':'Ajouter des photos ou vidéos (facultatif)',
 'Photos or videos (optional)':'Photos ou vidéos (facultatif)',
 'Up to 5 files, 10 MB each. JPG, PNG, WebP, MP4 or MOV.':'Jusqu’à 5 fichiers de 10 Mo. JPG, PNG, WebP, MP4 ou MOV.',
-'I agree to be contacted about this request and have read the':'J’accepte d’être contacté au sujet de cette demande et j’ai lu la',
 'privacy notice':'politique de confidentialité',
 'Send request':'Envoyer la demande',
 '* Required fields':'* Champs obligatoires'}

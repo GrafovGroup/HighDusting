@@ -84,9 +84,8 @@ class Handler(SimpleHTTPRequestHandler):
                     if len(payload)>12000:raise ValueError('A field is too long.')
                     fields[name]=payload.decode('utf-8').strip()
             if len(files)>5:raise ValueError('Please select no more than 5 files.')
-            for field in ['facility','city','areas','dust','name','company','email','phone','consent']:
+            for field in ['facility','city','areas','dust','name','company','email','phone']:
                 if not fields.get(field):raise ValueError('Please complete all required fields.')
-            if fields['consent']!='yes':raise ValueError('Please agree to be contacted about your request.')
             if not re.fullmatch(r'[^\s@]+@[^\s@]+\.[^\s@]+',fields['email']):raise ValueError('Please enter a valid email address.')
             if len(re.sub(r'\D','',fields['phone']))<7:raise ValueError('Please enter a valid phone number.')
             if fields.get('area') and (not fields['area'].isdigit() or not 1<=int(fields['area'])<=100000000):raise ValueError('Please enter a valid facility area.')

@@ -19,7 +19,7 @@ class WebsiteTests(unittest.TestCase):
    with urlopen(Request(self.base+path,data=data,headers=headers or {})) as r:return r.status,r.read()
   except HTTPError as r:return r.code,r.read()
  def submit(self,overrides=None,file=None):
-  fields=dict(facility='Warehouse',city='Toronto, ON',areas='Test beams',dust='General dust',name='Test',company='Test',email='test@example.com',phone='4165550100',consent='yes');fields.update(overrides or {})
+  fields=dict(facility='Warehouse',city='Toronto, ON',areas='Test beams',dust='General dust',name='Test',company='Test',email='test@example.com',phone='4165550100');fields.update(overrides or {})
   boundary='TESTBOUNDARY';parts=[]
   for k,v in fields.items():parts.append(f'--{boundary}\r\nContent-Disposition: form-data; name="{k}"\r\n\r\n{v}\r\n'.encode())
   if file:
