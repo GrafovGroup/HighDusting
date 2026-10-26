@@ -1,0 +1,1 @@
+{"name":"highdusting-ca","version":"1.0.0","private":true,"scripts":{"start":"python3 server.py","build":"python3 build.py"}}

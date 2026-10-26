@@ -1,0 +1,710 @@
+[
+  {
+    "slug": "commercial-high-dusting",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium high-dusting business website editorial photograph, landscape 3:2. Scene: Wide upward diagonal view through a modern commercial atrium, tall glass clerestory windows, layered steel ceiling trusses and suspended lights, muted blue interior, no people. Style: authentic commercial architectural photography, steel blue/navy and natural neutral palette, realistic overhead structures and materials, natural light, crisp considered framing. Constraints: illustrative facility only, no documented project claim, no text, no logo, no watermark, no before-after, no people unless specifically requested. Produce one image.",
+    "webp_path": "/private/tmp/highdusting-service-images/commercial-high-dusting.webp",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-719c-7000-8f76-00cf1f0c1799/exec-298f6143-749b-4d4b-9c40-930889050688.png",
+    "project_path": "assets/services/commercial-high-dusting.webp",
+    "sha256": "8e3abef06c80904d252f86949e7bbb1713c119b46b822e93ef6096cb8ceb568a"
+  },
+  {
+    "slug": "industrial-high-dusting",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium high-dusting business website editorial photograph, landscape 3:2. Scene: Low viewpoint inside a heavy industrial hall with deep steel girders and substantial overhead infrastructure, warm side light on navy steel, distant idle machinery, no people. Style: authentic commercial architectural photography, steel blue/navy and natural neutral palette, realistic overhead structures and materials, natural light, crisp considered framing. Constraints: illustrative facility only, no documented project claim, no text, no logo, no watermark, no before-after, no people unless specifically requested. Produce one image.",
+    "webp_path": "/private/tmp/highdusting-service-images/industrial-high-dusting.webp",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-719c-7000-8f76-00cf1f0c1799/exec-8a3f13e2-b79c-4ad3-aa8b-3f302ee967d5.png",
+    "project_path": "assets/services/industrial-high-dusting.webp",
+    "sha256": "b73916cb4dc5735cad7360ff3f24f885be91f7899fce8223aa0adb53140f35b0"
+  },
+  {
+    "slug": "warehouse-high-dusting",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium high-dusting business website editorial photograph, landscape 3:2. Scene: Symmetrical long perspective inside a high-bay warehouse with blue pallet racks and orderly plain cartons, roof steel and overhead lights fill upper two thirds, empty central aisle. Style: authentic commercial architectural photography, steel blue/navy and natural neutral palette, realistic overhead structures and materials, natural light, crisp considered framing. Constraints: illustrative facility only, no documented project claim, no text, no logo, no watermark, no before-after, no people unless specifically requested. Produce one image.",
+    "webp_path": "/private/tmp/highdusting-service-images/warehouse-high-dusting.webp",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-719c-7000-8f76-00cf1f0c1799/exec-53c1b54b-530b-4ae6-aff6-5157f09edb22.png",
+    "project_path": "assets/services/warehouse-high-dusting.webp",
+    "sha256": "f270b8dc238146dc6bcea6b98753f7a0b6d1a857f445264ee4acd23ebf74ecc3"
+  },
+  {
+    "slug": "ceiling-cleaning",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium high-dusting business website editorial photograph, landscape 3:2. Scene: Close upward architectural photograph of a white ribbed commercial metal ceiling and interlocking roof purlins, soft daylight through upper windows, precise clean structural texture. Style: authentic commercial architectural photography, steel blue/navy and natural neutral palette, realistic overhead structures and materials, natural light, crisp considered framing. Constraints: illustrative facility only, no documented project claim, no text, no logo, no watermark, no before-after, no people unless specifically requested. Produce one image.",
+    "webp_path": "/private/tmp/highdusting-service-images/ceiling-cleaning.webp",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-719c-7000-8f76-00cf1f0c1799/exec-c8a10af7-b3d2-45ce-ba33-4ee341622211.png",
+    "project_path": "assets/services/ceiling-cleaning.webp",
+    "sha256": "480d30b144398271822bd06ce198c87cc76a315cd92959f84869063c2a2c2a19"
+  },
+  {
+    "slug": "rafter-beam-cleaning",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium high-dusting business website editorial photograph, landscape 3:2. Scene: Tight angled view of exposed dark blue steel rafters and dusty horizontal flange surfaces in a tall workshop, soft side daylight revealing texture, no heavy airborne particles. Style: authentic commercial architectural photography, steel blue/navy and natural neutral palette, realistic overhead structures and materials, natural light, crisp considered framing. Constraints: illustrative facility only, no documented project claim, no text, no logo, no watermark, no before-after, no people. Produce one image.",
+    "webp_path": "/private/tmp/highdusting-service-images/rafter-beam-cleaning.webp",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-719c-7000-8f76-00cf1f0c1799/exec-2f58d03c-8a3d-4029-b43e-5c78039c7c22.png",
+    "project_path": "assets/services/rafter-beam-cleaning.webp",
+    "sha256": "ae42f974302f6b0f8b07d8cdb9ad0dfcd53ccf5fa4995b904f25ae58ed372552"
+  },
+  {
+    "slug": "pipe-conduit-cleaning",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium high-dusting business website editorial photograph, landscape 3:2. Scene: Architectural close view of parallel overhead galvanized electrical conduits and thick painted service pipes on ceiling hangers, clearly visible top surfaces and realistic bends, contemporary industrial facility. Style: authentic commercial architectural photography, steel blue/navy and natural neutral palette, realistic overhead structures and materials, natural light, crisp considered framing. Constraints: illustrative facility only, no documented project claim, no text, no logo, no watermark, no before-after, no people. Produce one image.",
+    "webp_path": "/private/tmp/highdusting-service-images/pipe-conduit-cleaning.webp",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-719c-7000-8f76-00cf1f0c1799/exec-5d800b1e-1b66-48dc-bb2c-f3605267b670.png",
+    "project_path": "assets/services/pipe-conduit-cleaning.webp",
+    "sha256": "ec926f6daf5657e34983520688b25dabfe058664e5869720a4d0e8d18318d4c7"
+  },
+  {
+    "slug": "duct-exterior-cleaning",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium high-dusting business website editorial photograph, landscape 3:2. Scene: Low diagonal view along a broad rectangular galvanized HVAC duct running under an open commercial roof, metallic exterior duct surfaces dominate, suspension hardware realistic, soft window light. Style: authentic commercial architectural photography, steel blue/navy and natural neutral palette, realistic overhead structures and materials, natural light, crisp considered framing. Constraints: illustrative facility only, no documented project claim, no text, no logo, no watermark, no before-after, no people. Produce one image.",
+    "webp_path": "/private/tmp/highdusting-service-images/duct-exterior-cleaning.webp",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-719c-7000-8f76-00cf1f0c1799/exec-83d02bcb-11fa-4d54-88af-f8fbe00e53a2.png",
+    "project_path": "assets/services/duct-exterior-cleaning.webp",
+    "sha256": "a240caf1a028b6301faa93897b7a6c18665e050a757d3b227cb4443588caee4b"
+  },
+  {
+    "slug": "hepa-high-dusting",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium high-dusting business website editorial photograph, landscape 3:2. Scene: Editorial equipment scene inside a tall modern commercial facility: unbranded sealed industrial canister vacuum and neatly arranged carbon fibre extension poles on polished concrete foreground, high open beams above, no workers. Style: authentic commercial architectural photography, steel blue/navy and natural neutral palette, realistic overhead structures and materials, natural light, crisp considered framing. Constraints: illustrative facility only, no documented project claim, no text, no logo, no watermark, no before-after, no people. Produce one image.",
+    "webp_path": "/private/tmp/highdusting-service-images/hepa-high-dusting.webp",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-719c-7000-8f76-00cf1f0c1799/exec-73d9637a-5474-439b-a8db-001a14cd4f2d.png",
+    "project_path": "assets/services/hepa-high-dusting.webp",
+    "sha256": "a6852ee6e07442ed3ec73026dc7a5466c692f11bbb7666dc049c5a11b829a0cd"
+  },
+  {
+    "slug": "food-facility-high-dusting",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium high-dusting business website editorial photograph, landscape 3:2. Scene: Clean unoccupied food packing hall with enclosed stainless equipment and tall white washable ceilings, exposed overhead pipes and light fittings, controlled neat environment, no food exposed. Style: authentic commercial architectural photography, steel blue/navy and natural neutral palette, realistic overhead structures and materials, natural light, crisp considered framing. Constraints: illustrative facility only, no documented project claim, no text, no logo, no watermark, no before-after, no people. Produce one image.",
+    "webp_path": "/private/tmp/highdusting-service-images/food-facility-high-dusting.webp",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-719c-7000-8f76-00cf1f0c1799/exec-96930b6c-bc3a-45d4-ac6f-b3b1fde754c3.png",
+    "project_path": "assets/services/food-facility-high-dusting.webp",
+    "sha256": "ed94055e9153a36d0a64a2a31d765518e1afee60e887ba5861e878f9206a9cea"
+  },
+  {
+    "slug": "manufacturing-high-dusting",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium high-dusting business website editorial photograph, landscape 3:2. Scene: High-ceiling manufacturing workshop with orderly idle machining stations, overhead blue steel beams and pipe runs, daylight from sawtooth roof windows, diagonal aisle view, no people. Style: authentic commercial architectural photography, steel blue/navy and natural neutral palette, realistic overhead structures and materials, natural light, crisp considered framing. Constraints: illustrative facility only, no documented project claim, no text, no logo, no watermark, no before-after, no people. Produce one image.",
+    "webp_path": "/private/tmp/highdusting-service-images/manufacturing-high-dusting.webp",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-719c-7000-8f76-00cf1f0c1799/exec-cd8b9dcb-4775-4c6a-8272-b2e13aa37572.png",
+    "project_path": "assets/services/manufacturing-high-dusting.webp",
+    "sha256": "4d64fc80c145e6cec0b9f03c8273e4193aa350024055265b43dcb0e694be72aa"
+  },
+  {
+    "slug": "high-level-cobweb-removal",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium high-dusting business website editorial photograph, landscape 3:2. Scene: Close upward photograph of a commercial roof corner where a steel beam meets a ribbed metal wall, a few fine realistic cobweb strands visible in soft sidelight, measured subtle detail. Style: authentic commercial architectural photography, steel blue/navy and natural neutral palette, realistic overhead structures and materials, natural light, crisp considered framing. Constraints: illustrative facility only, no documented project claim, no text, no logo, no watermark, no before-after, no people. Produce one image.",
+    "webp_path": "/private/tmp/highdusting-service-images/high-level-cobweb-removal.webp",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-719c-7000-8f76-00cf1f0c1799/exec-bee63f44-356e-4967-9e32-8e2c16fe75a4.png",
+    "project_path": "assets/services/high-level-cobweb-removal.webp",
+    "sha256": "b409f6c7917a0b006037709ce19325ce164c3203b18eaf7dc91aba70591bcbc2"
+  },
+  {
+    "slug": "elevated-fixture-cleaning",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium high-dusting business website editorial photograph, landscape 3:2. Scene: Upward telephoto photograph of several large suspended industrial LED light fixtures under warehouse trusses, sharp nearest fixture casing and hanger, distant lights rhythmically recede, no people. Style: authentic commercial architectural photography, steel blue/navy and natural neutral palette, realistic overhead structures and materials, natural light, crisp considered framing. Constraints: illustrative facility only, no documented project claim, no text, no logo, no watermark, no before-after, no people. Produce one image.",
+    "webp_path": "/private/tmp/highdusting-service-images/elevated-fixture-cleaning.webp",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-719c-7000-8f76-00cf1f0c1799/exec-c1311425-ef15-439a-9c56-5e51e8631cca.png",
+    "project_path": "assets/services/elevated-fixture-cleaning.webp",
+    "sha256": "01c7dda2395fd2d67b4544e24d5d096d644c8c024bdd9229d454f106ef81c331"
+  },
+  {
+    "slug": "ceiling-fan-cleaning",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium high-dusting business website editorial photograph, landscape 3:2. Scene: Large stationary six-blade industrial ceiling fan mounted high under open gray steel trusses, blades and motor clearly resolved, low-angle wide photo inside a commercial hall, no motion blur. Style: authentic commercial architectural photography, steel blue/navy and natural neutral palette, realistic overhead structures and materials, natural light, crisp considered framing. Constraints: illustrative facility only, no documented project claim, no text, no logo, no watermark, no before-after, no people. Produce one image.",
+    "webp_path": "/private/tmp/highdusting-service-images/ceiling-fan-cleaning.webp",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-719c-7000-8f76-00cf1f0c1799/exec-ad3a63c8-4059-4d09-b86a-3146630c0c7e.png",
+    "project_path": "assets/services/ceiling-fan-cleaning.webp",
+    "sha256": "e43841ed1b7ff5ed4abbf200725f94a880b51042a41b36383544bd4a7b5705ca"
+  },
+  {
+    "slug": "equipment-exterior-cleaning",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium high-dusting business website editorial photograph, landscape 3:2. Scene: Close commercial editorial view of the top and exterior of a large unbranded enclosed machine and overhead cable tray in an industrial workshop, realistic metal vents and upper surfaces, no exposed moving parts. Style: authentic commercial architectural photography, steel blue/navy and natural neutral palette, realistic overhead structures and materials, natural light, crisp considered framing. Constraints: illustrative facility only, no documented project claim, no text, no logo, no watermark, no before-after, no people. Produce one image.",
+    "webp_path": "/private/tmp/highdusting-service-images/equipment-exterior-cleaning.webp",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-719c-7000-8f76-00cf1f0c1799/exec-f2aea405-6f18-47e0-bfa9-fd1d8931114a.png",
+    "project_path": "assets/services/equipment-exterior-cleaning.webp",
+    "sha256": "f17328dcaab92e504ba63aa92522d5bdbab3d56181386c3ccb5ae3645d0fb118"
+  },
+  {
+    "slug": "shutdown-cleaning",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium high-dusting business website editorial photograph, landscape 3:2. Scene: Unoccupied production hall during a planned maintenance pause, orderly idle enclosed machinery and empty aisles, high steel roof and upper utilities, small unbranded cleaning cart near foreground, evening daylight. Style: authentic commercial architectural photography, steel blue/navy and natural neutral palette, realistic overhead structures and materials, natural light, crisp considered framing. Constraints: illustrative facility only, no documented project claim, no text, no logo, no watermark, no before-after, no people. Produce one image.",
+    "webp_path": "/private/tmp/highdusting-service-images/shutdown-cleaning.webp",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-719c-7000-8f76-00cf1f0c1799/exec-fdc35ba7-65e3-4718-8cf6-0731637830b9.png",
+    "project_path": "assets/services/shutdown-cleaning.webp",
+    "sha256": "348557f590bcef94aa748904c483ac3e2dd0cc51bef614cfbc3d32841a233e77"
+  },
+  {
+    "slug": "recurring-overhead-maintenance",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium high-dusting business website editorial photograph, landscape 3:2. Scene: Spacious tidy distribution facility from an upper mezzanine viewpoint emphasizing repeated ceiling beams lights and ducts over empty aisles, subtle depth, consistent planned maintenance atmosphere, no people. Style: authentic commercial architectural photography, steel blue/navy and natural neutral palette, realistic overhead structures and materials, natural light, crisp considered framing. Constraints: illustrative facility only, no documented project claim, no text, no logo, no watermark, no before-after, no people. Produce one image.",
+    "webp_path": "/private/tmp/highdusting-service-images/recurring-overhead-maintenance.webp",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-719c-7000-8f76-00cf1f0c1799/exec-35f67e69-8c3a-4743-a7e1-75b156d589f0.png",
+    "project_path": "assets/services/recurring-overhead-maintenance.webp",
+    "sha256": "283ad0e2bb79aa9d99a7560ebd8837a0b62fe6a2e0d64482229aa4c0043443ac"
+  },
+  {
+    "slug": "industry-warehouses",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium high-dusting business website editorial photograph, landscape 3:2. Scene: Broad warehouse cross-aisle view past tall racks of plain cartons toward clerestory daylight, high roof structure visible across upper half, muted navy safety rails, no people. Style: authentic commercial architectural photography, steel blue/navy and natural neutral palette, realistic overhead structures and materials, natural light, crisp considered framing. Constraints: illustrative facility only, no documented project claim, no text, no logo, no watermark, no before-after, no people. Produce one image.",
+    "webp_path": "/private/tmp/highdusting-service-images/industry-warehouses.webp",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-719c-7000-8f76-00cf1f0c1799/exec-c6e619cd-756a-4e3a-b0e1-5784d9eaf961.png",
+    "project_path": "assets/industries/warehouses.webp",
+    "sha256": "54574b354da498ca29e25ef420d7f3338bcc4d4d47a787600574e2b68d6814dd"
+  },
+  {
+    "slug": "industry-manufacturing",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium high-dusting business website editorial photograph, landscape 3:2. Scene: Expansive fabrication facility with blue structural columns and enclosed production workcells beneath an intricate high roof, sweeping oblique perspective, no people. Style: authentic commercial architectural photography, steel blue/navy and natural neutral palette, realistic overhead structures and materials, natural light, crisp considered framing. Constraints: illustrative facility only, no documented project claim, no text, no logo, no watermark, no before-after, no people. Produce one image.",
+    "webp_path": "/private/tmp/highdusting-service-images/industry-manufacturing.webp",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-719c-7000-8f76-00cf1f0c1799/exec-e99db097-fb10-4052-b319-4d4e33b3296c.png",
+    "project_path": "assets/industries/manufacturing.webp",
+    "sha256": "06a73a57035ca4cdbb28a76caba424af777d25fdcc4c38cb8b93275e7fe87d42"
+  },
+  {
+    "slug": "industry-food-processing",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium high-dusting business website editorial photograph, landscape 3:2. Scene: Modern hygienic processing facility with polished stainless tanks, enclosed conveyor equipment, insulated white ceiling and overhead utilities, bright soft natural light, no people or open food. Style: authentic commercial architectural photography, steel blue/navy and natural neutral palette, realistic overhead structures and materials, natural light, crisp considered framing. Constraints: illustrative facility only, no documented project claim, no text, no logo, no watermark, no before-after, no people. Produce one image.",
+    "webp_path": "/private/tmp/highdusting-service-images/industry-food-processing.webp",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-719c-7000-8f76-00cf1f0c1799/exec-262ef317-9879-49e3-aee1-489c963ae887.png",
+    "project_path": "assets/industries/food-processing.webp",
+    "sha256": "af7e024306ecfc2cf4b91f919b048172921a928f5890433c945589acbac940c8"
+  },
+  {
+    "slug": "industry-retail",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium high-dusting business website editorial photograph, landscape 3:2. Scene: Large unbranded home-goods retail interior before opening with tall exposed roof structure and pendant light grid above orderly low shelves, no legible packaging text, no people. Style: authentic commercial architectural photography, steel blue/navy and natural neutral palette, realistic overhead structures and materials, natural light, crisp considered framing. Constraints: illustrative facility only, no documented project claim, no text, no logo, no watermark, no before-after, no people. Produce one image.",
+    "webp_path": "/private/tmp/highdusting-service-images/industry-retail.webp",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-719c-7000-8f76-00cf1f0c1799/exec-a426a8c2-5b81-4238-94c8-b38f02e84e5e.png",
+    "project_path": "assets/industries/retail.webp",
+    "sha256": "edd4a14b1cb984cab1818b52ac574b653f8d61346462e8b01bfcbad467b65731"
+  },
+  {
+    "slug": "industry-arenas",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium high-dusting business website editorial photograph, landscape 3:2. Scene: Empty indoor arena seen from corner seating, high steel roof trusses and suspended lights dominating frame above a dry multipurpose floor, muted navy seats, no scoreboard text. Style: authentic commercial architectural photography, steel blue/navy and natural neutral palette, realistic overhead structures and materials, natural light, crisp considered framing. Constraints: illustrative facility only, no documented project claim, no text, no logo, no watermark, no before-after, no people. Produce one image.",
+    "webp_path": "/private/tmp/highdusting-service-images/industry-arenas.webp",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-719c-7000-8f76-00cf1f0c1799/exec-b3762470-6545-4615-a2b6-ba7625d0f3de.png",
+    "project_path": "assets/industries/arenas.webp",
+    "sha256": "7e09222d4568657321c38f0bee334a4e8345dce7cf25ae1403e96bf980195ddb"
+  },
+  {
+    "slug": "industry-education",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium high-dusting business website editorial photograph, landscape 3:2. Scene: Empty modern school gymnasium with daylight windows, exposed high roof beams and pendant lights above polished hardwood, minimal navy wall padding, no logos or text. Style: authentic commercial architectural photography, steel blue/navy and natural neutral palette, realistic overhead structures and materials, natural light, crisp considered framing. Constraints: illustrative facility only, no documented project claim, no text, no logo, no watermark, no before-after, no people. Produce one image.",
+    "webp_path": "/private/tmp/highdusting-service-images/industry-education.webp",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-719c-7000-8f76-00cf1f0c1799/exec-95a55b01-16cc-4b4b-8c57-805ab57003fe.png",
+    "project_path": "assets/industries/education.webp",
+    "sha256": "438df2a6ff111b5342776547c2e349f0149cdbd0dc9155e540ec0038cdce6535"
+  },
+  {
+    "slug": "province-ontario",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium high-dusting business website editorial photograph, landscape 3:2. Scene: Illustrative southern Canadian light industrial facility with broad high steel ceiling, tall windows showing ordinary deciduous trees, blue columns and clean unoccupied floor, no identifiable location. Style: authentic commercial architectural photography, steel blue/navy and natural neutral palette, realistic overhead structures and materials, natural light, crisp considered framing. Constraints: illustrative facility only, no documented project claim, no text, no logo, no watermark, no before-after, no people. Produce one image.",
+    "webp_path": "/private/tmp/highdusting-service-images/province-ontario.webp",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-719c-7000-8f76-00cf1f0c1799/exec-3db160b0-8091-4ffd-9f68-631022c17ab4.png",
+    "project_path": "assets/provinces/ontario.webp",
+    "sha256": "7389fca72d4f9fabe9f219cab7e9deca5b0d2301dabf7f09cf38f0a3320b6847"
+  },
+  {
+    "slug": "province-quebec",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium high-dusting business website editorial photograph, landscape 3:2. Scene: Illustrative Canadian commercial hall within a renovated industrial building, tall clerestory windows and brick lower walls beneath steel roof beams, soft autumn daylight, no identifiable location. Style: authentic commercial architectural photography, steel blue/navy and natural neutral palette, realistic overhead structures and materials, natural light, crisp considered framing. Constraints: illustrative facility only, no documented project claim, no text, no logo, no watermark, no before-after, no people. Produce one image.",
+    "webp_path": "/private/tmp/highdusting-service-images/province-quebec.webp",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-719c-7000-8f76-00cf1f0c1799/exec-72b88b0b-172c-41c6-9ba3-aa5661b0f92d.png",
+    "project_path": "assets/provinces/quebec.webp",
+    "sha256": "05dab5b7fc0cc798ff5aa50c44da3ab7eb09c444c71a7ba0eeaefe6c477847fb"
+  },
+  {
+    "slug": "province-british-columbia",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium high-dusting business website editorial photograph, landscape 3:2. Scene: Illustrative coastal Canadian high-ceiling commercial workshop with timber roof beams and steel joints, soft overcast light through tall windows with indistinct evergreen trees, no identifiable location. Style: authentic commercial architectural photography, steel blue/navy and natural neutral palette, realistic overhead structures and materials, natural light, crisp considered framing. Constraints: illustrative facility only, no documented project claim, no text, no logo, no watermark, no before-after, no people. Produce one image.",
+    "webp_path": "/private/tmp/highdusting-service-images/province-british-columbia.webp",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-719c-7000-8f76-00cf1f0c1799/exec-0fe0ed5f-98bb-40b9-894a-b769caec77e6.png",
+    "project_path": "assets/provinces/british-columbia.webp",
+    "sha256": "d88a01075062b180f0d595e615492685e46b84ff9bd2480d5550a35c5d7f1415"
+  },
+  {
+    "slug": "province-alberta",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium high-dusting business website editorial photograph, landscape 3:2. Scene: Illustrative prairie Canadian logistics facility, vast high blue steel roof above an uncluttered industrial floor, bright dry daylight through wide upper glazing, no identifiable location. Style: authentic commercial architectural photography, steel blue/navy and natural neutral palette, realistic overhead structures and materials, natural light, crisp considered framing. Constraints: illustrative facility only, no documented project claim, no text, no logo, no watermark, no before-after, no people. Produce one image.",
+    "webp_path": "/private/tmp/highdusting-service-images/province-alberta.webp",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-719c-7000-8f76-00cf1f0c1799/exec-92d5ea8f-3a43-4ec1-990b-a42e493a2bfa.png",
+    "project_path": "assets/provinces/alberta.webp",
+    "sha256": "b8dbcd5ebdf7029e9b943694d0af0f051b5ecf18137d6d954a16ea2bd881a036"
+  },
+  {
+    "slug": "province-saskatchewan",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium high-dusting business website editorial photograph, landscape 3:2. Scene: Illustrative prairie Canadian agricultural equipment service hall, high galvanized truss roof and muted green closed machinery far below, pale wide window light, no identifiable location. Style: authentic commercial architectural photography, steel blue/navy and natural neutral palette, realistic overhead structures and materials, natural light, crisp considered framing. Constraints: illustrative facility only, no documented project claim, no text, no logo, no watermark, no before-after, no people. Produce one image.",
+    "webp_path": "/private/tmp/highdusting-service-images/province-saskatchewan.webp",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-719c-7000-8f76-00cf1f0c1799/exec-509abf07-9c19-4f58-92dd-4d17fd011ab8.png",
+    "project_path": "assets/provinces/saskatchewan.webp",
+    "sha256": "d6c990c601961d1acdd7e2ead34afdbd550edf03cc7621351a69d012a8214524"
+  },
+  {
+    "slug": "province-manitoba",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium high-dusting business website editorial photograph, landscape 3:2. Scene: Illustrative central Canadian distribution building with substantial insulated roof structure, high steel trusses and evenly spaced suspended lights, soft cool daylight, empty aisle, no identifiable location. Style: authentic commercial architectural photography, steel blue/navy and natural neutral palette, realistic overhead structures and materials, natural light, crisp considered framing. Constraints: illustrative facility only, no documented project claim, no text, no logo, no watermark, no before-after, no people. Produce one image.",
+    "webp_path": "/private/tmp/highdusting-service-images/province-manitoba.webp",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-719c-7000-8f76-00cf1f0c1799/exec-fb287afe-607d-4045-9238-bf523fe0e149.png",
+    "project_path": "assets/provinces/manitoba.webp",
+    "sha256": "e0464b98bbe572e410692ef5283529ebe53bed3fa869867fded30ce59c6cbf6a"
+  },
+  {
+    "slug": "province-nova-scotia",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium high-dusting business website editorial photograph, landscape 3:2. Scene: Illustrative Atlantic Canadian commercial workshop with tall navy steel beams and industrial ceiling ducts, wide windows with gentle misty daylight and indistinct coastal vegetation, no identifiable location. Style: authentic commercial architectural photography, steel blue/navy and natural neutral palette, realistic overhead structures and materials, natural light, crisp considered framing. Constraints: illustrative facility only, no documented project claim, no text, no logo, no watermark, no before-after, no people. Produce one image.",
+    "webp_path": "/private/tmp/highdusting-service-images/province-nova-scotia.webp",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-719c-7000-8f76-00cf1f0c1799/exec-0ac1d7b0-bdb4-4723-ba14-d451d143c8af.png",
+    "project_path": "assets/provinces/nova-scotia.webp",
+    "sha256": "c33ccffd6c835b6c67f7bb80f3340d46646dc9dd1b602aaa6008149dab18a08f"
+  },
+  {
+    "slug": "province-new-brunswick",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium high-dusting business website editorial photograph, landscape 3:2. Scene: Illustrative eastern Canadian wood-products facility with enclosed idle equipment, high steel rafters and warm timber details, soft windows revealing indistinct mixed woodland, no identifiable location. Style: authentic commercial architectural photography, steel blue/navy and natural neutral palette, realistic overhead structures and materials, natural light, crisp considered framing. Constraints: illustrative facility only, no documented project claim, no text, no logo, no watermark, no before-after, no people. Produce one image.",
+    "webp_path": "/private/tmp/highdusting-service-images/province-new-brunswick.webp",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-719c-7000-8f76-00cf1f0c1799/exec-aaaf167c-2c7d-40f7-a156-0ee4e80feb76.png",
+    "project_path": "assets/provinces/new-brunswick.webp",
+    "sha256": "0e98de5dd369616de3c9fc04d88d2bc9656003b45aca82418751bb53c0dfb89c"
+  },
+  {
+    "slug": "province-newfoundland-and-labrador",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium high-dusting business website editorial photograph, landscape 3:2. Scene: Illustrative Atlantic Canadian industrial maintenance hall, high robust steel roof and exposed overhead pipes, cool diffuse light from tall windows, navy and gray palette, no identifiable location. Style: authentic commercial architectural photography, steel blue/navy and natural neutral palette, realistic overhead structures and materials, natural light, crisp considered framing. Constraints: illustrative facility only, no documented project claim, no text, no logo, no watermark, no before-after, no people. Produce one image.",
+    "webp_path": "/private/tmp/highdusting-service-images/province-newfoundland-and-labrador.webp",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-719c-7000-8f76-00cf1f0c1799/exec-4181b326-0ec7-46a1-a5b5-27b1d2dd2204.png",
+    "project_path": "assets/provinces/newfoundland-and-labrador.webp",
+    "sha256": "18543925ba44bea98e3c2ae4ab64776c8901cf5bdb431fa595d07bcf0c1d136a"
+  },
+  {
+    "slug": "province-prince-edward-island",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium high-dusting business website editorial photograph, landscape 3:2. Scene: Illustrative small Canadian food logistics building with broad clean high ceiling and simple exposed trusses, cream walls blue doors and soft daylight, no open food, no identifiable location. Style: authentic commercial architectural photography, steel blue/navy and natural neutral palette, realistic overhead structures and materials, natural light, crisp considered framing. Constraints: illustrative facility only, no documented project claim, no text, no logo, no watermark, no before-after, no people. Produce one image.",
+    "webp_path": "/private/tmp/highdusting-service-images/province-prince-edward-island.webp",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-719c-7000-8f76-00cf1f0c1799/exec-afd790aa-d114-4930-9cbf-70a549365d63.png",
+    "project_path": "assets/provinces/prince-edward-island.webp",
+    "sha256": "3993654b8bffebb66c0ca979243fd2380bd59b21240476d2315d0a94adfc2df4"
+  },
+  {
+    "slug": "province-yukon",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium high-dusting business website editorial photograph, landscape 3:2. Scene: Illustrative northern Canadian industrial workshop, tall insulated ceiling with dark steel trusses, generous upper windows revealing diffuse light and indistinct evergreen forest, no identifiable location. Style: authentic commercial architectural photography, steel blue/navy and natural neutral palette, realistic overhead structures and materials, natural light, crisp considered framing. Constraints: illustrative facility only, no documented project claim, no text, no logo, no watermark, no before-after, no people. Produce one image.",
+    "webp_path": "/private/tmp/highdusting-service-images/province-yukon.webp",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-719c-7000-8f76-00cf1f0c1799/exec-604b47f0-f4e5-454d-8600-892cff95d818.png",
+    "project_path": "assets/provinces/yukon.webp",
+    "sha256": "adce2bb25cd60a9bc12243dc176220b3a2836fd54c9cb7edc85f66ec10428d27"
+  },
+  {
+    "slug": "province-northwest-territories",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium high-dusting business website editorial photograph, landscape 3:2. Scene: Illustrative northern Canadian equipment warehouse with substantial insulated roof panels and steel joists, clean empty concrete aisle, cool daylight and warm overhead lights, no identifiable location. Style: authentic commercial architectural photography, steel blue/navy and natural neutral palette, realistic overhead structures and materials, natural light, crisp considered framing. Constraints: illustrative facility only, no documented project claim, no text, no logo, no watermark, no before-after, no people. Produce one image.",
+    "webp_path": "/private/tmp/highdusting-service-images/province-northwest-territories.webp",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-719c-7000-8f76-00cf1f0c1799/exec-3f796afe-ab7b-471f-bb9f-d5629dcc7d3f.png",
+    "project_path": "assets/provinces/northwest-territories.webp",
+    "sha256": "fa9cd79a3891bffc0cb7a45134ab8d49092677003865a1eb317789009d673f47"
+  },
+  {
+    "slug": "province-nunavut",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium high-dusting business website editorial photograph, landscape 3:2. Scene: Illustrative northern Canadian community logistics hall with highly insulated high roof and sturdy steel rafters, white navy palette and muted low-angle daylight through upper windows, no identifiable location. Style: authentic commercial architectural photography, steel blue/navy and natural neutral palette, realistic overhead structures and materials, natural light, crisp considered framing. Constraints: illustrative facility only, no documented project claim, no text, no logo, no watermark, no before-after, no people. Produce one image.",
+    "webp_path": "/private/tmp/highdusting-service-images/province-nunavut.webp",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-719c-7000-8f76-00cf1f0c1799/exec-a0dc6506-71ea-46bc-b9f6-148cbafff68f.png",
+    "project_path": "assets/provinces/nunavut.webp",
+    "sha256": "a141e71a69d1a3228b82a62e219cfa2e1e6ea3fff4afd449e69d797c8077432b"
+  },
+  {
+    "slug": "canada-directory",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium high-dusting business website editorial photograph, landscape 3:2. Scene: Expansive neutral Canadian-style high-bay commercial interior photographed from a diagonal upper angle, orderly steel roof trusses, suspended lights and long clean floor aisles, balanced navy gray natural daylight, no map no identifiable location. Style: authentic commercial architectural photography, steel blue/navy and natural neutral palette, realistic overhead structures and materials, natural light, crisp considered framing. Constraints: illustrative facility only, no documented project claim, no text, no logo, no watermark, no before-after, no people. Produce one image.",
+    "webp_path": "/private/tmp/highdusting-service-images/canada-directory.webp",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-719c-7000-8f76-00cf1f0c1799/exec-d1894864-6c76-4864-a567-4d05ca9e75af.png",
+    "project_path": "assets/canada-directory.webp",
+    "sha256": "90961e984fe3a43408957ad439107e212a7bd6403f417808866bbdf9031e0799"
+  },
+  {
+    "slug": "toronto",
+    "prompt": "Use case: photorealistic-natural. Asset type: illustrative commercial high-dusting service city-page hero image. Create ONE premium editorial architectural photograph, wide landscape 3:2, 1536x1024. Scene: A monumental urban convention hall interior with an asymmetric sweeping exposed steel-truss roof, tall glazing on the right, polished charcoal concrete floor and a few unbranded modular exhibition crates along the far wall; low diagonal camera emphasizing overhead ducts. Style: believable Canadian commercial or industrial architecture, precise physically plausible structure and material detail, natural daylight, steel-blue palette with navy shadows, clean neutral whites, subtle realistic wear. Emphasize the elevated surfaces cleaned by commercial high-dusting services: steel trusses, ducts, beams and fixtures. No people. No text, letters, numbers, branding, logos, watermarks, signs, landmarks or identifiable real building. This is a fictional illustrative facility, not evidence of a real job or local property. Distinct composition; natural professional photography rather than CGI. Fill the whole image; no border.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d46-f036-73a3-b3d4-7bb6c30d72cf/exec-7cbcdeb4-fc0b-4303-bb03-25d49ff35d2f.png",
+    "project_path": "assets/cities/toronto.webp",
+    "sha256": "9dfcb766d3ef9c857e9d067a2a52617c2ab54063e8e0c49c7753fcc97060c3e3"
+  },
+  {
+    "slug": "mississauga",
+    "prompt": "Use case: photorealistic-natural. Asset type: illustrative commercial high-dusting service city-page hero image. Create ONE premium editorial architectural photograph, wide landscape 3:2, 1536x1024. Scene: An immense modern distribution warehouse, central aisle between tall navy pallet racks carrying plain kraft boxes, white roof joists and exposed silver ventilation, bright clerestory windows; view from an aisle corner with deep perspective. Style: believable Canadian commercial or industrial architecture, precise physically plausible structure and material detail, natural daylight, steel-blue palette with navy shadows, clean neutral whites, subtle realistic wear. Emphasize the elevated surfaces cleaned by commercial high-dusting services: steel trusses, ducts, beams and fixtures. No people. No text, letters, numbers, branding, logos, watermarks, signs, landmarks or identifiable real building. This is a fictional illustrative facility, not evidence of a real job or local property. Distinct composition; natural professional photography rather than CGI. Fill the whole image; no border.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d46-f036-73a3-b3d4-7bb6c30d72cf/exec-4804bf95-79ca-42b9-83ad-0bfa5fe3ba1f.png",
+    "project_path": "assets/cities/mississauga.webp",
+    "sha256": "3d10e068ce53a0631727b50fd0f4b28af05249d2a19749aafa5f5bdb05ac5d6d"
+  },
+  {
+    "slug": "brampton",
+    "prompt": "Use case: photorealistic-natural. Asset type: illustrative commercial high-dusting service city-page hero image. Create ONE premium editorial architectural photograph, wide landscape 3:2, 1536x1024. Scene: A food packaging plant with rows of idle stainless steel conveyor lines and sealed machines below a high white steel-beam ceiling, clean epoxy floor, daylight from high windows; diagonal composition from ground level. Style: believable Canadian commercial or industrial architecture, precise physically plausible structure and material detail, natural daylight, steel-blue palette with navy shadows, clean neutral whites, subtle realistic wear. Emphasize the elevated surfaces cleaned by commercial high-dusting services: steel trusses, ducts, beams and fixtures. No people. No text, letters, numbers, branding, logos, watermarks, signs, landmarks or identifiable real building. This is a fictional illustrative facility, not evidence of a real job or local property. Distinct composition; natural professional photography rather than CGI. Fill the whole image; no border.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d46-f036-73a3-b3d4-7bb6c30d72cf/exec-87dba7d1-b74b-452c-91e7-7a102439198d.png",
+    "project_path": "assets/cities/brampton.webp",
+    "sha256": "224d7ba2f0a0a241b7737a4b154188683d42b51f42430cabb34b783dbebb1796"
+  },
+  {
+    "slug": "vaughan",
+    "prompt": "Use case: photorealistic-natural. Asset type: illustrative commercial high-dusting service city-page hero image. Create ONE premium editorial architectural photograph, wide landscape 3:2, 1536x1024. Scene: A high-ceiling commercial building materials showroom with neat timber panel displays at floor level, black open-web steel joists and silver cylindrical ducts overhead, glazing across the front; broad view looking upward from one corner. Style: believable Canadian commercial or industrial architecture, precise physically plausible structure and material detail, natural daylight, steel-blue palette with navy shadows, clean neutral whites, subtle realistic wear. Emphasize the elevated surfaces cleaned by commercial high-dusting services: steel trusses, ducts, beams and fixtures. No people. No text, letters, numbers, branding, logos, watermarks, signs, landmarks or identifiable real building. This is a fictional illustrative facility, not evidence of a real job or local property. Distinct composition; natural professional photography rather than CGI. Fill the whole image; no border.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d46-f036-73a3-b3d4-7bb6c30d72cf/exec-2eb30b51-b14c-47de-a8a6-61d8f6fc0c56.png",
+    "project_path": "assets/cities/vaughan.webp",
+    "sha256": "c7bc2756eb9d1542c2faf985067fa5ebe61d641c02d1cefb1ec92d4aa787951f"
+  },
+  {
+    "slug": "markham",
+    "prompt": "Use case: photorealistic-natural. Asset type: illustrative commercial high-dusting service city-page hero image. Create ONE premium editorial architectural photograph, wide landscape 3:2, 1536x1024. Scene: A precision electronics assembly facility with pale workbenches and glass partitions below a double-height steel-blue exposed services ceiling, large rectangular skylights; elevated balcony perspective, immaculate natural materials. Style: believable Canadian commercial or industrial architecture, precise physically plausible structure and material detail, natural daylight, steel-blue palette with navy shadows, clean neutral whites, subtle realistic wear. Emphasize the elevated surfaces cleaned by commercial high-dusting services: steel trusses, ducts, beams and fixtures. No people. No text, letters, numbers, branding, logos, watermarks, signs, landmarks or identifiable real building. This is a fictional illustrative facility, not evidence of a real job or local property. Distinct composition; natural professional photography rather than CGI. Fill the whole image; no border.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d46-f036-73a3-b3d4-7bb6c30d72cf/exec-15942dc5-766d-476d-9d85-ccbea38d915c.png",
+    "project_path": "assets/cities/markham.webp",
+    "sha256": "61e7bde62aa137a9479f842dcf521eb81823c6276738ab323b463ecd8dc51bff"
+  },
+  {
+    "slug": "hamilton",
+    "prompt": "Use case: photorealistic-natural. Asset type: illustrative commercial high-dusting service city-page hero image. Create ONE premium editorial architectural photograph, wide landscape 3:2, 1536x1024. Scene: A restored heavy manufacturing hall with immense riveted steel columns and overhead crane rails, plain metal fabrication tables on the floor, industrial clerestory sawtooth roof; strong side perspective with dramatic soft daylight. Style: believable Canadian commercial or industrial architecture, precise physically plausible structure and material detail, natural daylight, steel-blue palette with navy shadows, clean neutral whites, subtle realistic wear. Emphasize the elevated surfaces cleaned by commercial high-dusting services: steel trusses, ducts, beams and fixtures. No people. No text, letters, numbers, branding, logos, watermarks, signs, landmarks or identifiable real building. This is a fictional illustrative facility, not evidence of a real job or local property. Distinct composition; natural professional photography rather than CGI. Fill the whole image; no border.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d46-f036-73a3-b3d4-7bb6c30d72cf/exec-f1a45434-c4cf-44fb-9e6d-287845f662d2.png",
+    "project_path": "assets/cities/hamilton.webp",
+    "sha256": "c18f175942f24b4836af3f05a7513b420703f1896cfee447792ab6b9fb2035a5"
+  },
+  {
+    "slug": "ottawa",
+    "prompt": "Use case: photorealistic-natural. Asset type: illustrative commercial high-dusting service city-page hero image. Create ONE premium editorial architectural photograph, wide landscape 3:2, 1536x1024. Scene: A contemporary institutional atrium with a triple-height glazed roof, exposed navy structural members and suspended cylindrical air ducts, simple stone floor and quiet seating at its edges; upward architectural view. Style: believable Canadian commercial or industrial architecture, precise physically plausible structure and material detail, natural daylight, steel-blue palette with navy shadows, clean neutral whites, subtle realistic wear. Emphasize the elevated surfaces cleaned by commercial high-dusting services: steel trusses, ducts, beams and fixtures. No people. No text, letters, numbers, branding, logos, watermarks, signs, landmarks or identifiable real building. This is a fictional illustrative facility, not evidence of a real job or local property. Distinct composition; natural professional photography rather than CGI. Fill the whole image; no border.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d46-f036-73a3-b3d4-7bb6c30d72cf/exec-57a904a8-ee0f-4a9c-9654-e6bff569eafe.png",
+    "project_path": "assets/cities/ottawa.webp",
+    "sha256": "c7bf9fca06eb69a7b39c10685cd51aa6dc21f3a85de0d5409f7226d395d9196a"
+  },
+  {
+    "slug": "london",
+    "prompt": "Use case: photorealistic-natural. Asset type: illustrative commercial high-dusting service city-page hero image. Create ONE premium editorial architectural photograph, wide landscape 3:2, 1536x1024. Scene: A spacious pharmaceutical secondary-packaging warehouse with low stainless enclosed equipment and orderly plain white cartons, unusually high pale grey steel-truss roof, daylight through north-facing rooflights; wide low diagonal framing. Style: believable Canadian commercial or industrial architecture, precise physically plausible structure and material detail, natural daylight, steel-blue palette with navy shadows, clean neutral whites, subtle realistic wear. Emphasize the elevated surfaces cleaned by commercial high-dusting services: steel trusses, ducts, beams and fixtures. No people. No text, letters, numbers, branding, logos, watermarks, signs, landmarks or identifiable real building. This is a fictional illustrative facility, not evidence of a real job or local property. Distinct composition; natural professional photography rather than CGI. Fill the whole image; no border.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d46-f036-73a3-b3d4-7bb6c30d72cf/exec-613bf730-f3ec-4c45-88cc-2da56847b654.png",
+    "project_path": "assets/cities/london.webp",
+    "sha256": "56c19fcaba2a5d2cf5bd6c8541c3608318c63c392399310ffdff882e4f3195db"
+  },
+  {
+    "slug": "kitchener",
+    "prompt": "Use case: photorealistic-natural. Asset type: illustrative commercial high-dusting service city-page hero image. Create ONE premium editorial architectural photograph, wide landscape 3:2, 1536x1024. Scene: An adapted historic industrial hall with exposed brick piers, dark steel roof trusses and new silver ventilation, empty flexible production floor and long tall windows; warm brick accents within cool steel-blue daylight, off-centre framing. Style: believable Canadian commercial or industrial architecture, precise physically plausible structure and material detail, natural daylight, steel-blue palette with navy shadows, clean neutral whites, subtle realistic wear. Emphasize the elevated surfaces cleaned by commercial high-dusting services: steel trusses, ducts, beams and fixtures. No people. No text, letters, numbers, branding, logos, watermarks, signs, landmarks or identifiable real building. This is a fictional illustrative facility, not evidence of a real job or local property. Distinct composition; natural professional photography rather than CGI. Fill the whole image; no border.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d46-f036-73a3-b3d4-7bb6c30d72cf/exec-2cd7c620-5c5f-4b08-8ed9-73576d7098b5.png",
+    "project_path": "assets/cities/kitchener.webp",
+    "sha256": "eccf5d3ebee0f96447d5b62f58dc54766b8d2e6e82d591b5e234f4c1f41d9d72"
+  },
+  {
+    "slug": "waterloo",
+    "prompt": "Use case: photorealistic-natural. Asset type: illustrative commercial high-dusting service city-page hero image. Create ONE premium editorial architectural photograph, wide landscape 3:2, 1536x1024. Scene: A modern research engineering atrium with glass-walled labs along the sides, exposed triangular roof bracing and linear ducts, clean concrete floor and a compact unmanned prototype workstation at ground level; wide angular architecture. Style: believable Canadian commercial or industrial architecture, precise physically plausible structure and material detail, natural daylight, steel-blue palette with navy shadows, clean neutral whites, subtle realistic wear. Emphasize the elevated surfaces cleaned by commercial high-dusting services: steel trusses, ducts, beams and fixtures. No people. No text, letters, numbers, branding, logos, watermarks, signs, landmarks or identifiable real building. This is a fictional illustrative facility, not evidence of a real job or local property. Distinct composition; natural professional photography rather than CGI. Fill the whole image; no border.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d46-f036-73a3-b3d4-7bb6c30d72cf/exec-a3a22b56-562e-447c-a51c-ccf2b395f5de.png",
+    "project_path": "assets/cities/waterloo.webp",
+    "sha256": "cf79bc6b98fb2bcd18bd42251a2d7e579ee812d654bd98c00c99785b44df9540"
+  },
+  {
+    "slug": "cambridge",
+    "prompt": "Use case: photorealistic-natural. Asset type: illustrative commercial high-dusting service city-page hero image. Create ONE premium editorial architectural photograph, wide landscape 3:2, 1536x1024. Scene: A large advanced automotive parts assembly hall with orderly idle unbranded robotic production cells behind clear safety fencing, high steel joists and continuous ceiling pipework; view from a broad empty safety aisle. Style: believable Canadian commercial or industrial architecture, precise physically plausible structure and material detail, natural daylight, steel-blue palette with navy shadows, clean neutral whites, subtle realistic wear. Emphasize the elevated surfaces cleaned by commercial high-dusting services: steel trusses, ducts, beams and fixtures. No people. No text, letters, numbers, branding, logos, watermarks, signs, landmarks or identifiable real building. This is a fictional illustrative facility, not evidence of a real job or local property. Distinct composition; natural professional photography rather than CGI. Fill the whole image; no border.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d46-f036-73a3-b3d4-7bb6c30d72cf/exec-6ee65c22-8602-4d8d-a8a5-711d9ee7904b.png",
+    "project_path": "assets/cities/cambridge.webp",
+    "sha256": "086c60bdba6f5ac2b7fe03cef0907dff75c1a0a156539faad2eae6405d33b854"
+  },
+  {
+    "slug": "guelph",
+    "prompt": "Use case: photorealistic-natural. Asset type: illustrative commercial high-dusting service city-page hero image. Create ONE premium editorial architectural photograph, wide landscape 3:2, 1536x1024. Scene: An agricultural food-processing packaging facility with stainless sorting equipment and plain reusable crates, a high peaked metal roof with exposed pale-blue beams and ventilation; strong diagonal sunlight from clerestory windows. Style: believable Canadian commercial or industrial architecture, precise physically plausible structure and material detail, natural daylight, steel-blue palette with navy shadows, clean neutral whites, subtle realistic wear. Emphasize the elevated surfaces cleaned by commercial high-dusting services: steel trusses, ducts, beams and fixtures. No people. No text, letters, numbers, branding, logos, watermarks, signs, landmarks or identifiable real building. This is a fictional illustrative facility, not evidence of a real job or local property. Distinct composition; natural professional photography rather than CGI. Fill the whole image; no border.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d46-f036-73a3-b3d4-7bb6c30d72cf/exec-17f96503-baa8-4f90-ad07-31ff6516ef6e.png",
+    "project_path": "assets/cities/guelph.webp",
+    "sha256": "6bf7d0a4f8f0ad81d111b8254d51cf457ab379fc37269096366bad98f790725b"
+  },
+  {
+    "slug": "windsor",
+    "prompt": "Use case: photorealistic-natural. Asset type: illustrative commercial high-dusting service city-page hero image. Create ONE premium editorial architectural photograph, wide landscape 3:2, 1536x1024. Scene: A metal stamping facility with large idle blue press housings spaced along an expansive floor, tall overhead steel beams and crane structure, roof monitors admitting daylight; low view along the side of the machines. Style: believable Canadian commercial or industrial architecture, precise physically plausible structure and material detail, natural daylight, steel-blue palette with navy shadows, clean neutral whites, subtle realistic wear. Emphasize the elevated surfaces cleaned by commercial high-dusting services: steel trusses, ducts, beams and fixtures. No people. No text, letters, numbers, branding, logos, watermarks, signs, landmarks or identifiable real building. This is a fictional illustrative facility, not evidence of a real job or local property. Distinct composition; natural professional photography rather than CGI. Fill the whole image; no border.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d46-f036-73a3-b3d4-7bb6c30d72cf/exec-b2c339fe-0d8e-46cb-b025-f749e11ded4b.png",
+    "project_path": "assets/cities/windsor.webp",
+    "sha256": "511554e38f50639bfd11ea98c65bc8641f364c00af362a24c96ec4349d8f9dc0"
+  },
+  {
+    "slug": "oshawa",
+    "prompt": "Use case: photorealistic-natural. Asset type: illustrative commercial high-dusting service city-page hero image. Create ONE premium editorial architectural photograph, wide landscape 3:2, 1536x1024. Scene: An electric vehicle component logistics hall with orderly rows of closed grey transport containers, a lofty long-span steel roof and exposed air handling ducts, bright industrial windows; elevated corner perspective. Style: believable Canadian commercial or industrial architecture, precise physically plausible structure and material detail, natural daylight, steel-blue palette with navy shadows, clean neutral whites, subtle realistic wear. Emphasize the elevated surfaces cleaned by commercial high-dusting services: steel trusses, ducts, beams and fixtures. No people. No text, letters, numbers, branding, logos, watermarks, signs, landmarks or identifiable real building. This is a fictional illustrative facility, not evidence of a real job or local property. Distinct composition; natural professional photography rather than CGI. Fill the whole image; no border.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d46-f036-73a3-b3d4-7bb6c30d72cf/exec-e74c5e0a-9b4a-4bc1-a658-5bb094bd60e6.png",
+    "project_path": "assets/cities/oshawa.webp",
+    "sha256": "d062fc72acf088c901053e0f277e20e18081d5e4674815e42d4d137e642e3702"
+  },
+  {
+    "slug": "burlington",
+    "prompt": "Use case: photorealistic-natural. Asset type: illustrative commercial high-dusting service city-page hero image. Create ONE premium editorial architectural photograph, wide landscape 3:2, 1536x1024. Scene: An indoor aquatic recreation facility with an empty lap pool, towering galvanized steel truss ceiling and large round ventilation ducts, quiet pale tile deck and tall side windows; wide view across reflective water. Style: believable Canadian commercial or industrial architecture, precise physically plausible structure and material detail, natural daylight, steel-blue palette with navy shadows, clean neutral whites, subtle realistic wear. Emphasize the elevated surfaces cleaned by commercial high-dusting services: steel trusses, ducts, beams and fixtures. No people. No text, letters, numbers, branding, logos, watermarks, signs, landmarks or identifiable real building. This is a fictional illustrative facility, not evidence of a real job or local property. Distinct composition; natural professional photography rather than CGI. Fill the whole image; no border.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d46-f036-73a3-b3d4-7bb6c30d72cf/exec-9a3f47ea-b695-4a1f-a806-121a59affdce.png",
+    "project_path": "assets/cities/burlington.webp",
+    "sha256": "844804e639bacb82902f21eeac38b1d2539dd1454678b15daba40a9fd5d16f35"
+  },
+  {
+    "slug": "oakville",
+    "prompt": "Use case: photorealistic-natural. Asset type: illustrative commercial high-dusting service city-page hero image. Create ONE premium editorial architectural photograph, wide landscape 3:2, 1536x1024. Scene: An upscale high-ceiling furniture retail interior with sparse neutral display groupings, dark exposed structural roof and immaculate silver ducts, full-height glazing; upward diagonal framing focused on ceiling architecture. Style: believable Canadian commercial or industrial architecture, precise physically plausible structure and material detail, natural daylight, steel-blue palette with navy shadows, clean neutral whites, subtle realistic wear. Emphasize the elevated surfaces cleaned by commercial high-dusting services: steel trusses, ducts, beams and fixtures. No people. No text, letters, numbers, branding, logos, watermarks, signs, landmarks or identifiable real building. This is a fictional illustrative facility, not evidence of a real job or local property. Distinct composition; natural professional photography rather than CGI. Fill the whole image; no border.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d46-f036-73a3-b3d4-7bb6c30d72cf/exec-6ae1df78-56b0-4703-95b9-cd4e95baf1a5.png",
+    "project_path": "assets/cities/oakville.webp",
+    "sha256": "e80d2245d27e14559ba8b014f875f9a91b47f8f5c085f5b35974b3f300acbaef"
+  },
+  {
+    "slug": "barrie",
+    "prompt": "Use case: photorealistic-natural. Asset type: illustrative commercial high-dusting service city-page hero image. Create ONE premium editorial architectural photograph, wide landscape 3:2, 1536x1024. Scene: An empty community ice arena with white rink boards carrying no advertisements, blue roof trusses and exposed cylindrical ventilation, diffused daylight across unmarked clean ice; camera at rink corner looking up. Style: believable Canadian commercial or industrial architecture, precise physically plausible structure and material detail, natural daylight, steel-blue palette with navy shadows, clean neutral whites, subtle realistic wear. Emphasize the elevated surfaces cleaned by commercial high-dusting services: steel trusses, ducts, beams and fixtures. No people. No text, letters, numbers, branding, logos, watermarks, signs, landmarks or identifiable real building. This is a fictional illustrative facility, not evidence of a real job or local property. Distinct composition; natural professional photography rather than CGI. Fill the whole image; no border.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d46-f036-73a3-b3d4-7bb6c30d72cf/exec-eab6361f-2a76-4fd8-9355-bad63f24b54c.png",
+    "project_path": "assets/cities/barrie.webp",
+    "sha256": "a52cb0ce319ac83c73d0f8fc94b4aadb66fff92f6b04e67cd5cbcd6493807cc3"
+  },
+  {
+    "slug": "kingston",
+    "prompt": "Use case: photorealistic-natural. Asset type: illustrative commercial high-dusting service city-page hero image. Create ONE premium editorial architectural photograph, wide landscape 3:2, 1536x1024. Scene: A university gymnasium with hardwood floor, pale masonry walls, lofty exposed navy steel roof beams and silver ducts, tall daylight windows; wide corner view with folded basketball equipment along wall. Style: believable Canadian commercial or industrial architecture, precise physically plausible structure and material detail, natural daylight, steel-blue palette with navy shadows, clean neutral whites, subtle realistic wear. Emphasize the elevated surfaces cleaned by commercial high-dusting services: steel trusses, ducts, beams and fixtures. No people. No text, letters, numbers, branding, logos, watermarks, signs, landmarks or identifiable real building. This is a fictional illustrative facility, not evidence of a real job or local property. Distinct composition; natural professional photography rather than CGI. Fill the whole image; no border.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d46-f036-73a3-b3d4-7bb6c30d72cf/exec-cf722bec-8820-44de-8350-6e691c2b12e1.png",
+    "project_path": "assets/cities/kingston.webp",
+    "sha256": "f1aaf495c1657036e7b94521fdb9c5aa61a99c70e9a1df63bfb54e8dbd35472c"
+  },
+  {
+    "slug": "greater-sudbury",
+    "prompt": "Use case: photorealistic-natural. Asset type: illustrative commercial high-dusting service city-page hero image. Create ONE premium editorial architectural photograph, wide landscape 3:2, 1536x1024. Scene: A mining equipment maintenance hall with a rugged unbranded wheel loader parked far in background, enormous steel gantry beams, exposed pipes and pitched industrial roof; clean empty foreground, cool daylight. Style: believable Canadian commercial or industrial architecture, precise physically plausible structure and material detail, natural daylight, steel-blue palette with navy shadows, clean neutral whites, subtle realistic wear. Emphasize the elevated surfaces cleaned by commercial high-dusting services: steel trusses, ducts, beams and fixtures. No people. No text, letters, numbers, branding, logos, watermarks, signs, landmarks or identifiable real building. This is a fictional illustrative facility, not evidence of a real job or local property. Distinct composition; natural professional photography rather than CGI. Fill the whole image; no border.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d46-f036-73a3-b3d4-7bb6c30d72cf/exec-b87b48b9-e602-4fd0-81d0-853f7ef42912.png",
+    "project_path": "assets/cities/greater-sudbury.webp",
+    "sha256": "4d709744cbf96ada1719ae3d443d5d08fcb4eb8d54d3c8e724373c2df1f9ac16"
+  },
+  {
+    "slug": "thunder-bay",
+    "prompt": "Use case: photorealistic-natural. Asset type: illustrative commercial high-dusting service city-page hero image. Create ONE premium editorial architectural photograph, wide landscape 3:2, 1536x1024. Scene: A timber products storage hall with neatly stacked light wood bundles, long-span galvanized steel roof framing and continuous ventilators, wide loading doors admitting soft daylight; dramatic diagonal lines with timber texture. Style: believable Canadian commercial or industrial architecture, precise physically plausible structure and material detail, natural daylight, steel-blue palette with navy shadows, clean neutral whites, subtle realistic wear. Emphasize the elevated surfaces cleaned by commercial high-dusting services: steel trusses, ducts, beams and fixtures. No people. No text, letters, numbers, branding, logos, watermarks, signs, landmarks or identifiable real building. This is a fictional illustrative facility, not evidence of a real job or local property. Distinct composition; natural professional photography rather than CGI. Fill the whole image; no border.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d46-f036-73a3-b3d4-7bb6c30d72cf/exec-99b6ec49-170c-4003-b526-c490a0f5c75a.png",
+    "project_path": "assets/cities/thunder-bay.webp",
+    "sha256": "312642c5bc92a087f24accc045ec8c4a987db22e1c2ae982877bb858ec6b6c8c"
+  },
+  {
+    "slug": "montreal",
+    "prompt": "Use case: photorealistic-natural. Asset type: illustrative commercial high-dusting service city-page hero image. Create ONE premium editorial architectural photograph, wide landscape 3:2, 1536x1024. Scene: A converted textile manufacturing loft with tall gridded factory windows, slender dark steel columns, overhead ventilation and exposed triangular roof framework, an expansive uncluttered commercial floor; architectural diagonal view. Style: believable Canadian commercial or industrial architecture, precise physically plausible structure and material detail, natural daylight, steel-blue palette with navy shadows, clean neutral whites, subtle realistic wear. Emphasize the elevated surfaces cleaned by commercial high-dusting services: steel trusses, ducts, beams and fixtures. No people. No text, letters, numbers, branding, logos, watermarks, signs, landmarks or identifiable real building. This is a fictional illustrative facility, not evidence of a real job or local property. Distinct composition; natural professional photography rather than CGI. Fill the whole image; no border.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d46-f036-73a3-b3d4-7bb6c30d72cf/exec-ca0c8854-519e-475c-9da4-f9f3b157ff9b.png",
+    "project_path": "assets/cities/montreal.webp",
+    "sha256": "c9b581cab8971df8a9242de834eff3134533ff03279b94aaf9b9afd065bebcb6"
+  },
+  {
+    "slug": "quebec-city",
+    "prompt": "Use case: photorealistic-natural. Asset type: illustrative commercial high-dusting service city-page hero image. Create ONE premium editorial architectural photograph, wide landscape 3:2, 1536x1024. Scene: A modern exhibition pavilion with long curving timber roof arches joined to exposed navy steel bracing, silver air ducts high overhead, polished stone floor and a tall glazed end wall; wide low-angle interior. Style: believable Canadian commercial or industrial architecture, precise physically plausible structure and material detail, natural daylight, steel-blue palette with navy shadows, clean neutral whites, subtle realistic wear. Emphasize the elevated surfaces cleaned by commercial high-dusting services: steel trusses, ducts, beams and fixtures. No people. No text, letters, numbers, branding, logos, watermarks, signs, landmarks or identifiable real building. This is a fictional illustrative facility, not evidence of a real job or local property. Distinct composition; natural professional photography rather than CGI. Fill the whole image; no border.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d46-f036-73a3-b3d4-7bb6c30d72cf/exec-7b5a5de1-9b6f-4f8e-bea1-ee6f5a5ee3fd.png",
+    "project_path": "assets/cities/quebec-city.webp",
+    "sha256": "7d5d2755db519f832a21f63da5aebc3fd6d7b0214586ba43739fdecfb8127326"
+  },
+  {
+    "slug": "laval",
+    "prompt": "Use case: photorealistic-natural. Asset type: illustrative commercial high-dusting service city-page hero image. Create ONE premium editorial architectural photograph, wide landscape 3:2, 1536x1024. Scene: A high-bay wholesale produce distribution hall with plain reusable green and grey crates on low pallets, white steel roof trusses and giant overhead insulated ducts, diffused skylights; clean open central lane and diagonal camera. Style: believable Canadian commercial or industrial architecture, precise physically plausible structure and material detail, natural daylight, steel-blue palette with navy shadows, clean neutral whites, subtle realistic wear. Emphasize the elevated surfaces cleaned by commercial high-dusting services: steel trusses, ducts, beams and fixtures. No people. No text, letters, numbers, branding, logos, watermarks, signs, landmarks or identifiable real building. This is a fictional illustrative facility, not evidence of a real job or local property. Distinct composition; natural professional photography rather than CGI. Fill the whole image; no border.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d46-f036-73a3-b3d4-7bb6c30d72cf/exec-899c5109-d486-4731-b308-6e6b15fc8f48.png",
+    "project_path": "assets/cities/laval.webp",
+    "sha256": "156303969732b27dcdcfb0b64c2ca1640f90dc11ee5a5da9af6de6befbf7098c"
+  },
+  {
+    "slug": "gatineau",
+    "prompt": "Use case: photorealistic-natural. Asset type: illustrative commercial high-dusting service city-page hero image. Create ONE premium editorial architectural photograph, wide landscape 3:2, 1536x1024. Scene: A civic recreation centre atrium with an angular double-height glass roof, exposed slate-blue steel braces and overhead cylindrical ventilation, pale concrete benches and tiled floor; looking up from quiet interior corner. Style: believable Canadian commercial or industrial architecture, precise physically plausible structure and material detail, natural daylight, steel-blue palette with navy shadows, clean neutral whites, subtle realistic wear. Emphasize the elevated surfaces cleaned by commercial high-dusting services: steel trusses, ducts, beams and fixtures. No people. No text, letters, numbers, branding, logos, watermarks, signs, landmarks or identifiable real building. This is a fictional illustrative facility, not evidence of a real job or local property. Distinct composition; natural professional photography rather than CGI. Fill the whole image; no border.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d46-f036-73a3-b3d4-7bb6c30d72cf/exec-f74d8fb6-157b-49b1-a9fa-c7ebdd1130fe.png",
+    "project_path": "assets/cities/gatineau.webp",
+    "sha256": "b8a68ad16d83134c498afbc426e5c4e60974a0461777b9fc561db1c871f31b84"
+  },
+  {
+    "slug": "longueuil",
+    "prompt": "Use case: photorealistic-natural. Asset type: illustrative commercial high-dusting service city-page hero image. Create ONE premium editorial architectural photograph, wide landscape 3:2, 1536x1024. Scene: An aerospace component manufacturing hall with a single unbranded metallic cylindrical assembly on a floor cradle, high white steel roof and dark exposed ducts, broad daylight from clerestories; side-on wide architectural framing. Style: believable Canadian commercial or industrial architecture, precise physically plausible structure and material detail, natural daylight, steel-blue palette with navy shadows, clean neutral whites, subtle realistic wear. Emphasize the elevated surfaces cleaned by commercial high-dusting services: steel trusses, ducts, beams and fixtures. No people. No text, letters, numbers, branding, logos, watermarks, signs, landmarks or identifiable real building. This is a fictional illustrative facility, not evidence of a real job or local property. Distinct composition; natural professional photography rather than CGI. Fill the whole image; no border.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d46-f036-73a3-b3d4-7bb6c30d72cf/exec-1909f8c2-fc12-417e-9514-4d74a570e582.png",
+    "project_path": "assets/cities/longueuil.webp",
+    "sha256": "6e3c361af14ad89a918d66979e90f3898ae6c3f8539bbcb42f98b4a532d21dc1"
+  },
+  {
+    "slug": "trois-rivieres",
+    "prompt": "Use case: photorealistic-natural. Asset type: illustrative commercial high-dusting service city-page hero image. Create ONE premium editorial architectural photograph, wide landscape 3:2, 1536x1024. Scene: A paper-products converting warehouse with several huge wrapped white paper rolls in the foreground and idle machinery far away, high dark steel-beam roof and exposed ventilation, long high windows; diagonal composition emphasizing height. Style: believable Canadian commercial or industrial architecture, precise physically plausible structure and material detail, natural daylight, steel-blue palette with navy shadows, clean neutral whites, subtle realistic wear. Emphasize the elevated surfaces cleaned by commercial high-dusting services: steel trusses, ducts, beams and fixtures. No people. No text, letters, numbers, branding, logos, watermarks, signs, landmarks or identifiable real building. This is a fictional illustrative facility, not evidence of a real job or local property. Distinct composition; natural professional photography rather than CGI. Fill the whole image; no border.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d46-f036-73a3-b3d4-7bb6c30d72cf/exec-20f1d24e-a825-4951-a48e-7e5ea3077c5a.png",
+    "project_path": "assets/cities/trois-rivieres.webp",
+    "sha256": "29d1f8ab0d17865f037668d39e9a6ed51a403aed6d93cd56a43019cb35b6221c"
+  },
+  {
+    "slug": "sherbrooke",
+    "prompt": "Use case: photorealistic-natural. Asset type: illustrative commercial high-dusting service city-page hero image. Create ONE premium editorial architectural photograph, wide landscape 3:2, 1536x1024. Scene: A college sports training hall with green indoor turf, an exceptionally tall peaked ceiling of grey steel trusses and silver ducts, translucent high-level windows; low camera from an empty sideline, equipment stored neatly. Style: believable Canadian commercial or industrial architecture, precise physically plausible structure and material detail, natural daylight, steel-blue palette with navy shadows, clean neutral whites, subtle realistic wear. Emphasize the elevated surfaces cleaned by commercial high-dusting services: steel trusses, ducts, beams and fixtures. No people. No text, letters, numbers, branding, logos, watermarks, signs, landmarks or identifiable real building. This is a fictional illustrative facility, not evidence of a real job or local property. Distinct composition; natural professional photography rather than CGI. Fill the whole image; no border.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d46-f036-73a3-b3d4-7bb6c30d72cf/exec-9213c629-4321-4003-b45c-8c39d0243ce1.png",
+    "project_path": "assets/cities/sherbrooke.webp",
+    "sha256": "b12944426533c0522d39122fa0cc9893867a134d7e720ce7c0fd40a3236d125f"
+  },
+  {
+    "slug": "abbotsford",
+    "prompt": "Use case: photorealistic-natural. Asset type: HighDusting.ca city-page illustrative hero photograph for abbotsford. Generate a distinct premium architectural editorial photograph, landscape 3:2 aspect ratio. Scene: An agricultural packing warehouse interior with neatly arranged empty stainless sorting tables, dramatic timber-and-steel hybrid pitched roof, suspended silver ducts and large far windows; warm wood accents with cool daylight, diagonal aisle composition. Emphasize the high ceiling, overhead infrastructure, beams, trusses and ducts as the photographic subject. Natural realistic daylight, steel blue and navy shadow palette, precise believable construction, authentic material texture, restrained professional finish, wide architecture lens with straight verticals. Illustrative generic facility concept only, not an actual job site, named local building or landmark. No people, no text, no logos, no watermark, no collage, no graphic overlays, no before-and-after split.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-2dd4-7a81-aba1-5617e44f3340/exec-311d6323-3aa5-4acc-a5c7-6a35a160afb3.png",
+    "project_path": "assets/cities/abbotsford.webp",
+    "sha256": "b971d220e37a5c6b60d01b06c75b599e40c5248b0a184e378ace53f4539f2c8f"
+  },
+  {
+    "slug": "brandon",
+    "prompt": "Use case: photorealistic-natural. Asset type: HighDusting.ca city-page illustrative hero photograph for brandon. Generate a distinct premium architectural editorial photograph, landscape 3:2 aspect ratio. Scene: A spacious community fieldhouse interior, an empty unmarked pale hardwood sports floor, tall triangular white steel ceiling frames and navy ventilation ducts, high strip windows; wide corner perspective looking upward, no equipment or people. Emphasize the high ceiling, overhead infrastructure, beams, trusses and ducts as the photographic subject. Natural realistic daylight, steel blue and navy shadow palette, precise believable construction, authentic material texture, restrained professional finish, wide architecture lens with straight verticals. Illustrative generic facility concept only, not an actual job site, named local building or landmark. No people, no text, no logos, no watermark, no collage, no graphic overlays, no before-and-after split.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-2dd4-7a81-aba1-5617e44f3340/exec-0fe3e4f7-d623-4737-9c6f-58643f90466d.png",
+    "project_path": "assets/cities/brandon.webp",
+    "sha256": "2a56b415d8a2b66aa486c98f95e742cea45ac6197a14b4d15d1bbe95a7fb5cb9"
+  },
+  {
+    "slug": "burnaby",
+    "prompt": "Use case: photorealistic-natural. Asset type: HighDusting.ca city-page illustrative hero photograph for burnaby. Generate a distinct premium architectural editorial photograph, landscape 3:2 aspect ratio. Scene: A precision manufacturing hall interior, clean enclosed milling machines low in foreground, a dense orderly web of galvanized ducts and black structural beams above, high clerestory windows; oblique elevated architectural perspective. Emphasize the high ceiling, reachable overhead infrastructure, steel beams, trusses and ducts as the photographic subject. Natural realistic daylight, steel blue and navy shadow palette, precise believable construction, authentic material texture, restrained professional finish, wide architecture lens with straight verticals. Illustrative generic facility concept only, not an actual job site, named local building or landmark. No people, no text, no logos, no watermark, no collage, no graphic overlays, no before-and-after split.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-2dd4-7a81-aba1-5617e44f3340/exec-2351bab4-bebf-4a30-affd-76e612af4fab.png",
+    "project_path": "assets/cities/burnaby.webp",
+    "sha256": "f50fe06173d884c2504178f10c8082babebab2676835a133447b1982b85b5d13"
+  },
+  {
+    "slug": "calgary",
+    "prompt": "Use case: photorealistic-natural. Asset type: HighDusting.ca city-page illustrative hero photograph for calgary. Generate a distinct premium architectural editorial photograph, landscape 3:2 aspect ratio. Scene: A vast modern convention hall interior, geometrically layered black steel ceiling grid and silver service ducts, tall glazing at far end, empty polished terrazzo floor; architectural low camera with bold converging ceiling lines. Emphasize the high ceiling, overhead infrastructure, beams, trusses and ducts as the photographic subject. Natural realistic daylight, steel blue and navy shadow palette, precise believable construction, authentic material texture, restrained professional finish, wide architecture lens with straight verticals. Illustrative generic facility concept only, not an actual job site, named local building or landmark. No people, no text, no logos, no watermark, no collage, no graphic overlays, no before-and-after split.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-2dd4-7a81-aba1-5617e44f3340/exec-a930735b-a92b-44b2-9739-735fafcb3a09.png",
+    "project_path": "assets/cities/calgary.webp",
+    "sha256": "c17cdf8f488f761d797423897905c5ce87ea1dbac008176413ed3f6cac7bb60e"
+  },
+  {
+    "slug": "charlottetown",
+    "prompt": "Use case: photorealistic-natural. Asset type: HighDusting.ca city-page illustrative hero photograph for charlottetown. Generate a distinct premium architectural editorial photograph, landscape 3:2 aspect ratio. Scene: A bright multipurpose exhibition pavilion interior, exposed long-span pale timber roof beams connected by steel plates, navy suspended ventilation ducts, large windows on both sides, empty smooth floor; graceful balanced wide architectural photograph. Emphasize the high ceiling, overhead infrastructure, beams, trusses and ducts as the photographic subject. Natural realistic daylight, steel blue and navy shadow palette, precise believable construction, authentic material texture, restrained professional finish, wide architecture lens with straight verticals. Illustrative generic facility concept only, not an actual job site, named local building or landmark. No people, no text, no logos, no watermark, no collage, no graphic overlays, no before-and-after split.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-2dd4-7a81-aba1-5617e44f3340/exec-f6b6cbad-618a-4df7-b837-8716934e7a27.png",
+    "project_path": "assets/cities/charlottetown.webp",
+    "sha256": "921b6e88b6b6f172eb9b7268b5ebf7bef00126b9705a54144b4df2fc27768bc9"
+  },
+  {
+    "slug": "edmonton",
+    "prompt": "Use case: photorealistic-natural. Asset type: HighDusting.ca city-page illustrative hero photograph for edmonton. Generate a distinct premium architectural editorial photograph, landscape 3:2 aspect ratio. Scene: A heavy fabrication hall interior, thick navy structural columns, an overhead yellow gantry crane parked idle, high steel rafters and ventilation mains, low orderly unmarked metal components at rear; dramatic diagonal view, no people. Emphasize the high ceiling, overhead infrastructure, beams, trusses and ducts as the photographic subject. Natural realistic daylight, steel blue and navy shadow palette, precise believable construction, authentic material texture, restrained professional finish, wide architecture lens with straight verticals. Illustrative generic facility concept only, not an actual job site, named local building or landmark. No people, no text, no logos, no watermark, no collage, no graphic overlays, no before-and-after split.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-2dd4-7a81-aba1-5617e44f3340/exec-bde0f152-0e45-433b-b849-93cbdbfe3055.png",
+    "project_path": "assets/cities/edmonton.webp",
+    "sha256": "525d87fc6870bf54f1d458db7564c777c9524f04cee028493945211aa01d966e"
+  },
+  {
+    "slug": "fort-mcmurray",
+    "prompt": "Use case: photorealistic-natural. Asset type: HighDusting.ca city-page illustrative hero photograph for fort-mcmurray. Generate a distinct premium architectural editorial photograph, landscape 3:2 aspect ratio. Scene: A large equipment repair shop interior, monumental paired steel columns, pale corrugated ceiling with heavy roof bracing and broad HVAC trunk lines, one unbranded stationary wheel loader parked far in a bay, clean vast floor; distant low-angle view. Emphasize the high ceiling, overhead infrastructure, beams, trusses and ducts as the photographic subject. Natural realistic daylight, steel blue and navy shadow palette, precise believable construction, authentic material texture, restrained professional finish, wide architecture lens with straight verticals. Illustrative generic facility concept only, not an actual job site, named local building or landmark. No people, no text, no logos, no watermark, no collage, no graphic overlays, no before-and-after split.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-2dd4-7a81-aba1-5617e44f3340/exec-c93380fd-5d2b-4556-8810-ce33dfe1316b.png",
+    "project_path": "assets/cities/fort-mcmurray.webp",
+    "sha256": "c55ea9123ad0888ab56632d322eed41b3fecf40afa000f0e8cf81d702605b7d2"
+  },
+  {
+    "slug": "halifax",
+    "prompt": "Use case: photorealistic-natural. Asset type: HighDusting.ca city-page illustrative hero photograph for halifax. Generate a distinct premium architectural editorial photograph, landscape 3:2 aspect ratio. Scene: A port-service industrial warehouse interior, tall painted brick sidewall and marine-blue steel columns, gray exposed trusses and galvanized duct mains, daylight through a wide loading door in the distance, empty floor and tidy crates at edge; diagonal view. Emphasize the high ceiling, overhead infrastructure, beams, trusses and ducts as the photographic subject. Natural realistic daylight, steel blue and navy shadow palette, precise believable construction, authentic material texture, restrained professional finish, wide architecture lens with straight verticals. Illustrative generic facility concept only, not an actual job site, named local building or landmark. No people, no text, no logos, no watermark, no collage, no graphic overlays, no before-and-after split.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-2dd4-7a81-aba1-5617e44f3340/exec-b0ed3995-662e-493d-a2e6-cdedb2899257.png",
+    "project_path": "assets/cities/halifax.webp",
+    "sha256": "a4107a070e2623f4ff238a949aab34dd2592d04af99de87e7bbd44eb087452c0"
+  },
+  {
+    "slug": "iqaluit",
+    "prompt": "Use case: photorealistic-natural. Asset type: HighDusting.ca city-page illustrative hero photograph for iqaluit. Generate a distinct premium architectural editorial photograph, landscape 3:2 aspect ratio. Scene: A northern municipal equipment storage hall interior, steep high-pitched insulated roof supported by charcoal steel trusses, oversized silver ventilation duct crossing overhead, translucent upper wall panels and wide closed blue service doors, empty clean concrete floor; centered architectural perspective. Emphasize the high ceiling, overhead infrastructure, beams, trusses and ducts as the photographic subject. Natural realistic daylight, steel blue and navy shadow palette, precise believable construction, authentic material texture, restrained professional finish, wide architecture lens with straight verticals. Illustrative generic facility concept only, not an actual job site, named local building or landmark. No people, no text, no logos, no watermark, no collage, no graphic overlays, no before-and-after split.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-2dd4-7a81-aba1-5617e44f3340/exec-a20df588-f8c2-4698-9681-caed58df72c0.png",
+    "project_path": "assets/cities/iqaluit.webp",
+    "sha256": "43e35e5d61eda34b9ece9d4635516c471850926b3292c0d45534b8939af56284"
+  },
+  {
+    "slug": "kamloops",
+    "prompt": "Use case: photorealistic-natural. Asset type: HighDusting.ca city-page illustrative hero photograph for kamloops. Generate a distinct premium architectural editorial photograph, landscape 3:2 aspect ratio. Scene: A rail equipment workshop interior, long shallow service channels in concrete floor, gigantic gray steel portal frames and exposed industrial ventilation, empty tidy bays, soft daylight from roof lanterns; centered wide view with blue accent walls. Emphasize the high ceiling, overhead infrastructure, beams, trusses and ducts as the photographic subject. Natural realistic daylight, steel blue and navy shadow palette, precise believable construction, authentic material texture, restrained professional finish, wide architecture lens with straight verticals. Illustrative generic facility concept only, not an actual job site, named local building or landmark. No people, no text, no logos, no watermark, no collage, no graphic overlays, no before-and-after split.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-2dd4-7a81-aba1-5617e44f3340/exec-04c87c72-57f8-43eb-b1be-5df12e39e18a.png",
+    "project_path": "assets/cities/kamloops.webp",
+    "sha256": "1ecb273272f4fc8f781989deb418b97cdac6f028530b80891ee13b7b68c83303"
+  },
+  {
+    "slug": "kelowna",
+    "prompt": "Use case: photorealistic-natural. Asset type: HighDusting.ca city-page illustrative hero photograph for kelowna. Generate a distinct premium architectural editorial photograph, landscape 3:2 aspect ratio. Scene: A spacious contemporary beverage production hall interior, tall stainless tanks along left and a clerestory strip beneath exposed charcoal steel roof beams, silver ductwork, light gray concrete floor; diagonal upward composition with no labels on tanks. Emphasize the high ceiling, overhead infrastructure, beams, trusses and ducts as the photographic subject. Natural realistic daylight, steel blue and navy shadow palette, precise believable construction, authentic material texture, restrained professional finish, wide architecture lens with straight verticals. Illustrative generic facility concept only, not an actual job site, named local building or landmark. No people, no text, no logos, no watermark, no collage, no graphic overlays, no before-and-after split.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-2dd4-7a81-aba1-5617e44f3340/exec-18b79148-09ad-45dc-9839-b8775706b4b0.png",
+    "project_path": "assets/cities/kelowna.webp",
+    "sha256": "b1b93979beb9310aeb9c03dccfb6b1346796f031c87136138ac9f9df259d18ba"
+  },
+  {
+    "slug": "lethbridge",
+    "prompt": "Use case: photorealistic-natural. Asset type: HighDusting.ca city-page illustrative hero photograph for lethbridge. Generate a distinct premium architectural editorial photograph, landscape 3:2 aspect ratio. Scene: An agricultural research processing building interior, tall narrow industrial windows and angular rooflights, clean stainless benches set low, blue-gray steel beams and pale ductwork, airy uncluttered space; off-center wide perspective. Emphasize the high ceiling, overhead infrastructure, beams, trusses and ducts as the photographic subject. Natural realistic daylight, steel blue and navy shadow palette, precise believable construction, authentic material texture, restrained professional finish, wide architecture lens with straight verticals. Illustrative generic facility concept only, not an actual job site, named local building or landmark. No people, no text, no logos, no watermark, no collage, no graphic overlays, no before-and-after split.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-2dd4-7a81-aba1-5617e44f3340/exec-45c86838-fdb4-4559-8502-a8560af15995.png",
+    "project_path": "assets/cities/lethbridge.webp",
+    "sha256": "581f7377feca26b00d722df0171425acde5e3fb0280f82510d79dce091771116"
+  },
+  {
+    "slug": "moncton",
+    "prompt": "Use case: photorealistic-natural. Asset type: HighDusting.ca city-page illustrative hero photograph for moncton. Generate a distinct premium architectural editorial photograph, landscape 3:2 aspect ratio. Scene: A parcel sorting facility interior, low clean idle unmarked conveyor belts crossing foreground, very high open steel ceiling with silver air ducts and regular rooflights, blue-gray industrial palette; slightly elevated angle across orderly empty hall. Emphasize the high ceiling, overhead infrastructure, beams, trusses and ducts as the photographic subject. Natural realistic daylight, steel blue and navy shadow palette, precise believable construction, authentic material texture, restrained professional finish, wide architecture lens with straight verticals. Illustrative generic facility concept only, not an actual job site, named local building or landmark. No people, no text, no logos, no watermark, no collage, no graphic overlays, no before-and-after split.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-2dd4-7a81-aba1-5617e44f3340/exec-672a3333-62ad-4c94-aaa9-3aa91e5eaf0e.png",
+    "project_path": "assets/cities/moncton.webp",
+    "sha256": "f9a07302e0caf8515d027c0b495f95ddd4ca5f0818be2258bfd5ae0076deed6e"
+  },
+  {
+    "slug": "nanaimo",
+    "prompt": "Use case: photorealistic-natural. Asset type: HighDusting.ca city-page illustrative hero photograph for nanaimo. Generate a distinct premium architectural editorial photograph, landscape 3:2 aspect ratio. Scene: A marine fabrication shed interior, high corrugated metal walls, enormous exposed steel roof trusses, a few orderly metal workbenches below, broad windows with diffuse maritime daylight; asymmetric corner view looking across empty workshop floor, no boats. Emphasize the high ceiling, overhead infrastructure, beams, trusses and ducts as the photographic subject. Natural realistic daylight, steel blue and navy shadow palette, precise believable construction, authentic material texture, restrained professional finish, wide architecture lens with straight verticals. Illustrative generic facility concept only, not an actual job site, named local building or landmark. No people, no text, no logos, no watermark, no collage, no graphic overlays, no before-and-after split.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-2dd4-7a81-aba1-5617e44f3340/exec-ee47657e-7b2d-4eb2-b9bd-8da8b634bc9e.png",
+    "project_path": "assets/cities/nanaimo.webp",
+    "sha256": "200bfc68a07f93e5a4750d8944993b6e536359be1f2d628a0435dd6f21bb4514"
+  },
+  {
+    "slug": "red-deer",
+    "prompt": "Use case: photorealistic-natural. Asset type: HighDusting.ca city-page illustrative hero photograph for red-deer. Generate a distinct premium architectural editorial photograph, landscape 3:2 aspect ratio. Scene: A clean fleet maintenance garage interior with three closed tall sectional doors, high silver open-web trusses and broad cylindrical air ducts, empty epoxy floor bays, large upper windows; medium wide upward view from one corner. Emphasize the high ceiling, overhead infrastructure, beams, trusses and ducts as the photographic subject. Natural realistic daylight, steel blue and navy shadow palette, precise believable construction, authentic material texture, restrained professional finish, wide architecture lens with straight verticals. Illustrative generic facility concept only, not an actual job site, named local building or landmark. No people, no text, no logos, no watermark, no collage, no graphic overlays, no before-and-after split.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-2dd4-7a81-aba1-5617e44f3340/exec-cc8c4eb5-9339-46ac-85de-c348792284e0.png",
+    "project_path": "assets/cities/red-deer.webp",
+    "sha256": "268f6f804e257e03d92e5318c185a93b9f8e96fcf76ca2fc67135171bea41d91"
+  },
+  {
+    "slug": "regina",
+    "prompt": "Use case: photorealistic-natural. Asset type: HighDusting.ca city-page illustrative hero photograph for regina. Generate a distinct premium architectural editorial photograph, landscape 3:2 aspect ratio. Scene: An empty indoor ice arena viewed diagonally from rinkside, smooth ice surface with no markings or text, exposed broad steel roof arches and round ventilation ducts overhead, modest dark blue spectator seating; atmospheric daylight from high end windows. Emphasize the high ceiling, overhead infrastructure, beams, trusses and ducts as the photographic subject. Natural realistic daylight, steel blue and navy shadow palette, precise believable construction, authentic material texture, restrained professional finish, wide architecture lens with straight verticals. Illustrative generic facility concept only, not an actual job site, named local building or landmark. No people, no text, no logos, no watermark, no collage, no graphic overlays, no before-and-after split.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-2dd4-7a81-aba1-5617e44f3340/exec-0a25a896-260c-4635-8b9a-b47ebbfee8ea.png",
+    "project_path": "assets/cities/regina.webp",
+    "sha256": "7745bd777a9311596a1318fe73206b0f629f0f0a6c96df864b96e6b15db15548"
+  },
+  {
+    "slug": "richmond",
+    "prompt": "Use case: photorealistic-natural. Asset type: HighDusting.ca city-page illustrative hero photograph for richmond. Generate a distinct premium architectural editorial photograph, landscape 3:2 aspect ratio. Scene: A cavernous empty aircraft maintenance hangar with a broad partly open sliding door glowing at far left, exposed white triangular roof trusses, gray ribbed wall panels and a glossy pale concrete floor; extremely wide low-angle architectural composition, no aircraft. Emphasize the high ceiling, reachable overhead infrastructure, steel beams, trusses and ducts as the photographic subject. Natural realistic daylight, steel blue and navy shadow palette, precise believable construction, authentic material texture, restrained professional finish, wide architecture lens with straight verticals. Illustrative generic facility concept only, not an actual job site, named local building or landmark. No people, no text, no logos, no watermark, no collage, no graphic overlays, no before-and-after split.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-2dd4-7a81-aba1-5617e44f3340/exec-915785a6-5da5-49c9-9322-5b2187e8eb42.png",
+    "project_path": "assets/cities/richmond.webp",
+    "sha256": "b0ed6fc0dae8821e51b5f6489b7f80da3ff17aed5cd49398cf6c2fc60ae5092c"
+  },
+  {
+    "slug": "saskatoon",
+    "prompt": "Use case: photorealistic-natural. Asset type: HighDusting.ca city-page illustrative hero photograph for saskatoon. Generate a distinct premium architectural editorial photograph, landscape 3:2 aspect ratio. Scene: A grain-handling equipment assembly warehouse interior, tall light gray steel trusses and square suspended ventilation diffusers, orderly low unmarked mechanical assemblies beneath a big rooflight; wide angle across empty foreground concrete. Emphasize the high ceiling, overhead infrastructure, beams, trusses and ducts as the photographic subject. Natural realistic daylight, steel blue and navy shadow palette, precise believable construction, authentic material texture, restrained professional finish, wide architecture lens with straight verticals. Illustrative generic facility concept only, not an actual job site, named local building or landmark. No people, no text, no logos, no watermark, no collage, no graphic overlays, no before-and-after split.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-2dd4-7a81-aba1-5617e44f3340/exec-f501ae6e-241e-4ce3-be77-3ba82623c21b.png",
+    "project_path": "assets/cities/saskatoon.webp",
+    "sha256": "56b0ab9ba17c61028c4b3a865b88123e3b0ae82a05ebd7acaa820d4daefb045b"
+  },
+  {
+    "slug": "st-johns",
+    "prompt": "Use case: photorealistic-natural. Asset type: HighDusting.ca city-page illustrative hero photograph for st-johns. Generate a distinct premium architectural editorial photograph, landscape 3:2 aspect ratio. Scene: A coastal maintenance workshop interior, tall pitched roof supported by heavy dark steel trusses, silver spiral ducts, frosted high windows casting cool diffused light, empty concrete floor and one neat bench on right; low off-center upward perspective. Emphasize the high ceiling, overhead infrastructure, beams, trusses and ducts as the photographic subject. Natural realistic daylight, steel blue and navy shadow palette, precise believable construction, authentic material texture, restrained professional finish, wide architecture lens with straight verticals. Illustrative generic facility concept only, not an actual job site, named local building or landmark. No people, no text, no logos, no watermark, no collage, no graphic overlays, no before-and-after split.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-2dd4-7a81-aba1-5617e44f3340/exec-c061ab5f-8256-4df6-85e5-56d7b09cde29.png",
+    "project_path": "assets/cities/st-johns.webp",
+    "sha256": "a8aaeac17a37e33a93b982b7bc450377594f0735219760d41b1b32b36ccbfc58"
+  },
+  {
+    "slug": "surrey",
+    "prompt": "Use case: photorealistic-natural. Asset type: HighDusting.ca city-page illustrative hero photograph for surrey. Generate a distinct premium architectural editorial photograph, landscape 3:2 aspect ratio. Scene: A modern distribution hub interior, long deep aisle between low blue industrial storage racks, monumental dark open-web steel ceiling joists and parallel silver ventilation ducts, evenly spaced skylights; symmetrical centered vanishing-point composition. Emphasize the high ceiling, reachable overhead infrastructure, steel beams, trusses and ducts as the photographic subject. Natural realistic daylight, steel blue and navy shadow palette, precise believable construction, authentic material texture, restrained professional finish, wide architecture lens with straight verticals. Illustrative generic facility concept only, not an actual job site, named local building or landmark. No people, no text, no logos, no watermark, no collage, no graphic overlays, no before-and-after split.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-2dd4-7a81-aba1-5617e44f3340/exec-5a9b81f3-0c59-4625-9124-a17e41fb9dc6.png",
+    "project_path": "assets/cities/surrey.webp",
+    "sha256": "3f69a4fec47cf51625bfeb7eec29a0ffc1fcf8e5128ee53b7f6bf5a280d54cd9"
+  },
+  {
+    "slug": "vancouver",
+    "prompt": "Use case: photorealistic-natural. Asset type: HighDusting.ca city-page illustrative hero photograph for vancouver. Generate a distinct premium architectural editorial photograph, landscape 3:2 aspect ratio. Scene: An airy waterfront logistics warehouse interior, tall narrow windows along the left, immense sawtooth roof with pale steel trusses, mostly empty polished concrete floor, a few orderly pallet stacks far right; diagonal view from floor level looking upward into repeating rafters. Emphasize the high ceiling, reachable overhead infrastructure, steel beams, trusses and ducts as the photographic subject. Natural realistic daylight, steel blue and navy shadow palette, precise believable construction, authentic material texture, restrained professional finish, wide architecture lens with straight verticals. Illustrative generic facility concept only, not an actual job site, named local building or landmark. No people, no text, no logos, no watermark, no collage, no graphic overlays, no before-and-after split.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-2dd4-7a81-aba1-5617e44f3340/exec-0c54fd3f-b864-4595-b021-7fb23bb80573.png",
+    "project_path": "assets/cities/vancouver.webp",
+    "sha256": "d0951dad5220388185c790f1690e2cd5d3ec62f2fa53aa2b5204cbd647085179"
+  },
+  {
+    "slug": "victoria",
+    "prompt": "Use case: photorealistic-natural. Asset type: HighDusting.ca city-page illustrative hero photograph for victoria. Generate a distinct premium architectural editorial photograph, landscape 3:2 aspect ratio. Scene: An elegant civic recreation atrium interior, tall glass facade on right, massive gently curved laminated timber arches held by steel ties, suspended ducts above empty stone floor; eye-level view emphasizing soaring clean roof structure. Emphasize the high ceiling, overhead infrastructure, beams, trusses and ducts as the photographic subject. Natural realistic daylight, steel blue and navy shadow palette, precise believable construction, authentic material texture, restrained professional finish, wide architecture lens with straight verticals. Illustrative generic facility concept only, not an actual job site, named local building or landmark. No people, no text, no logos, no watermark, no collage, no graphic overlays, no before-and-after split.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-2dd4-7a81-aba1-5617e44f3340/exec-e798bc20-f38f-4328-af44-b0ddc143b457.png",
+    "project_path": "assets/cities/victoria.webp",
+    "sha256": "88593119cd82effc458c75a8af12a6f360b2ca7389d70bf45137f5a5681f1e47"
+  },
+  {
+    "slug": "whitehorse",
+    "prompt": "Use case: photorealistic-natural. Asset type: HighDusting.ca city-page illustrative hero photograph for whitehorse. Generate a distinct premium architectural editorial photograph, landscape 3:2 aspect ratio. Scene: A northern utility service hangar interior, insulated ribbed light walls, robust dark steel roof frames and visible silver HVAC ducts, small high windows admitting crisp daylight, a huge closed paneled hangar door and empty clean concrete floor; diagonal low perspective. Emphasize the high ceiling, overhead infrastructure, beams, trusses and ducts as the photographic subject. Natural realistic daylight, steel blue and navy shadow palette, precise believable construction, authentic material texture, restrained professional finish, wide architecture lens with straight verticals. Illustrative generic facility concept only, not an actual job site, named local building or landmark. No people, no text, no logos, no watermark, no collage, no graphic overlays, no before-and-after split.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-2dd4-7a81-aba1-5617e44f3340/exec-80ea33b6-75cc-49c7-83a6-3cd37790b681.png",
+    "project_path": "assets/cities/whitehorse.webp",
+    "sha256": "31a9a3d2be894e6e6cb62ced7f02b0aa7bcb2eb6c2c843b490a927a0a0dd0ae6"
+  },
+  {
+    "slug": "winnipeg",
+    "prompt": "Use case: photorealistic-natural. Asset type: HighDusting.ca city-page illustrative hero photograph for winnipeg. Generate a distinct premium architectural editorial photograph, landscape 3:2 aspect ratio. Scene: A historic industrial building adapted as a production studio interior, brick piers, huge steel roof trusses with silver ducts, generous north-facing factory windows, empty pale concrete floor; centered perspective with tactile aged materials and premium editorial realism. Emphasize the high ceiling, overhead infrastructure, beams, trusses and ducts as the photographic subject. Natural realistic daylight, steel blue and navy shadow palette, precise believable construction, authentic material texture, restrained professional finish, wide architecture lens with straight verticals. Illustrative generic facility concept only, not an actual job site, named local building or landmark. No people, no text, no logos, no watermark, no collage, no graphic overlays, no before-and-after split.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-2dd4-7a81-aba1-5617e44f3340/exec-0b2b8a99-7b8d-43a8-b35a-e4f080b2c26a.png",
+    "project_path": "assets/cities/winnipeg.webp",
+    "sha256": "7b8e7c607205a9d4c00e0bd198608907fdc04eb1bf534ec9a2fa22a533456432"
+  },
+  {
+    "slug": "yellowknife",
+    "prompt": "Use case: photorealistic-natural. Asset type: HighDusting.ca city-page illustrative hero photograph for yellowknife. Generate a distinct premium architectural editorial photograph, landscape 3:2 aspect ratio. Scene: A modern cold-climate logistics building interior, compact high-bay warehouse with thick pale steel columns and heavily insulated silver ducts under exposed rafters, clerestory winter daylight, sparse unbranded crates at far back; wide upward corner view. Emphasize the high ceiling, overhead infrastructure, beams, trusses and ducts as the photographic subject. Natural realistic daylight, steel blue and navy shadow palette, precise believable construction, authentic material texture, restrained professional finish, wide architecture lens with straight verticals. Illustrative generic facility concept only, not an actual job site, named local building or landmark. No people, no text, no logos, no watermark, no collage, no graphic overlays, no before-and-after split.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a08d47-2dd4-7a81-aba1-5617e44f3340/exec-d08d471a-7658-4e3a-aabd-8732bccd547e.png",
+    "project_path": "assets/cities/yellowknife.webp",
+    "sha256": "5906a5621e404ed0e18aa1abe09e8e6ea231dbd47385f1733ee94f8dfa22dad4"
+  },
+  {
+    "slug": "post-construction-high-dusting",
+    "prompt": "Photorealistic 3:2 commercial warehouse after renovation. Technician on a guarded blue scissor lift cleaning an overhead beam with a vacuum pole; cleared floor and organized tools, exposed beams and ductwork. Natural light, navy and steel palette, darker left space for headings. No text, logos, landmarks or completed-project claims.",
+    "webp_path": "assets/services/post-construction-high-dusting.webp",
+    "source_path": "/Users/grafov/.codex/generated_images/01a0a267-1b6c-7f81-bf28-21ab257dc858/exec-ca2b0d68-2bca-425e-ab0d-5d9f82322144.png",
+    "generator": "built-in image_gen",
+    "usage": "Illustrative service image; not a documented client project."
+  },
+  {
+    "slug": "high-dusting-cost-en",
+    "prompt": "Photorealistic 3:2 landscape editorial image for a commercial high dusting cost guide. A facilities manager in navy workwear and a cleaning surveyor in lime hi-vis vests stand on a clear warehouse floor in the right third of the frame, looking upward and discussing an overhead access plan with a closed tablet held at waist height. Exposed rafters, conduit and orderly storage bays clearly visible, no active cleaning, no scissor lift. Wide, natural architectural photography. Subdued navy, gray and warm daylight, ample dark uncluttered space on left for heading. No text, logos, numbers, watermarks, readable tablet screens or real-project claims. Distinct composition focused on site assessment and planning.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a0a267-1b6c-7f81-bf28-21ab257dc858/exec-aaad31bd-c23d-4db5-b110-456eb1481d6b.png",
+    "project_path": "assets/guides/high-dusting-cost-en.webp",
+    "webp_path": "/Users/grafov/Documents/ChatGPT/HighDusting.ca/assets/guides/high-dusting-cost-en.webp",
+    "sha256": "e8be448f3985716cbd5a926fa57a585c7932899e7cae11e3b5a4a32e20a9fe56"
+  },
+  {
+    "slug": "high-dusting-cost-fr",
+    "prompt": "Photorealistic 3:2 landscape editorial image for a French Canadian overhead-cleaning price guide. Spacious commercial exhibition hall with white triangular roof trusses, tall clerestory windows and polished concrete. One facilities surveyor seen from behind in the lower right, wearing a hardhat and holding a compact laser measuring device aimed toward a beam, planning the reach for overhead cleaning. No other people, no tablet, no scissor lift. Wide upward diagonal architecture, layered trusses with alternating shadow and soft daylight, dark navy-toned left space for headline. Realistic materials and camera perspective. No readable text, logos, branding, numbers, watermark, city landmark or completed-project claim.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a0a267-1b6c-7f81-bf28-21ab257dc858/exec-76196e27-7234-4276-9936-da30f4a13a5c.png",
+    "project_path": "assets/guides/high-dusting-cost-fr.webp",
+    "webp_path": "/Users/grafov/Documents/ChatGPT/HighDusting.ca/assets/guides/high-dusting-cost-fr.webp",
+    "sha256": "8dbea4677d75514854ba91380f193e680044c119616b3e2d2ba3c80f6a5b93be"
+  },
+  {
+    "slug": "post-construction-high-dusting-fr",
+    "prompt": "Photorealistic 3:2 landscape editorial commercial-cleaning photograph. Newly renovated retail showroom with a high exposed ceiling, white-painted steel beams and cylindrical ducts, large window wall, empty protected floor. On the right third, technician wearing a hardhat inside the guarded basket of an orange articulated boom lift carefully uses a vacuum pole brush on an overhead beam. Equipment fully within frame, no airborne dust clouds, no loose debris, no other workers. Distinct from blue-scissor-lift warehouse scenes: bright modern showroom, orange articulated lift, low-angle diagonal ceiling architecture. Natural daylight, muted navy and gray palette, quieter darker left side for heading. No logos, text, watermarks, landmarks, before-after comparison or claimed client project.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a0a267-1b6c-7f81-bf28-21ab257dc858/exec-756c7002-05dc-4a1a-8e2e-21a2849ac423.png",
+    "project_path": "assets/services/post-construction-high-dusting-fr.webp",
+    "webp_path": "/Users/grafov/Documents/ChatGPT/HighDusting.ca/assets/services/post-construction-high-dusting-fr.webp",
+    "sha256": "df9c89f132ed7c99d8c11c7863bac3c15c57dea89d5269a3f673ed9c749777ec"
+  },
+  {
+    "slug": "acoustic-baffle-ceiling-cloud-dusting",
+    "prompt": "Use case: ads-marketing. Asset type: commercial high dusting service website hero, illustrative architecture rather than an actual client project. Create exactly one original photorealistic commercial architectural photograph, landscape 3:2, 1536x1024. Scene: a modern university learning commons, wide upward camera angle showing suspended vertical acoustic felt baffles and several distinct horizontal acoustic ceiling clouds. Main architectural subject on the right two thirds: parallel vertical navy and grey felt blades with realistic thin suspension cables, separate broad flat horizontal clouds at another elevation; clear distinction between both geometries. Include subtle upper wall windows and a small lower glimpse of the quiet interior. Broad empty dark navy shadowed architectural area on the left third, low detail and suitable for an overlaid heading. Natural daylight from right windows, restrained navy and steel grey palette, credible materials and fine felt texture. Plausible load-bearing geometry, suspension cables and ceiling installation. No people, no text, no logos, no watermark, no artificial written labels, no collage.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a0a2e0-1190-7701-879d-8ba46f0caa29/exec-023f5469-1e32-4e4e-ae8a-e37c1b926341.png",
+    "project_path": "assets/services/acoustic-baffle-ceiling-cloud-dusting.webp",
+    "webp_path": "/Users/grafov/Documents/ChatGPT/HighDusting.ca/assets/services/acoustic-baffle-ceiling-cloud-dusting.webp",
+    "sha256": "5cef682e7f1d8a3de2a862a35020ef575d85c86469c647d6442964d5cb97446d"
+  },
+  {
+    "slug": "warehouse-rack-top-cleaning",
+    "prompt": "Use case: ads-marketing. Asset type: commercial high dusting service website hero, illustrative architecture rather than an actual client project. Create exactly one original photorealistic commercial architectural photograph, landscape 3:2, 1536x1024. Scene: warehouse pallet racking viewed from an elevated camera looking diagonally slightly downward along the upper horizontal rack beams. The top surfaces of the upper steel rack beams are the clear central subject, with orderly plain cartons and pallets on shelves below; upright posts and cross braces have plausible connections. Place the sharp receding racks on the right two thirds, with visible horizontal beam tops near the camera and a strong diagonal perspective into the building. Broad empty dark navy shadowed aisle or wall on the left third suitable for overlaid heading. Restrained navy steel racking and neutral plain cardboard, natural daylight from high windows. Fine believable industrial texture and crisp commercial architecture photography. This must clearly show rack top surfaces, not a generic ceiling-only warehouse. No people, no text or legible carton labels, no logos, no watermark, no collage. Building and pallet rack geometry mechanically plausible.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a0a2e0-1190-7701-879d-8ba46f0caa29/exec-eb83e859-a9a8-4e3f-a4e9-db7a8a85d431.png",
+    "project_path": "assets/services/warehouse-rack-top-cleaning.webp",
+    "webp_path": "/Users/grafov/Documents/ChatGPT/HighDusting.ca/assets/services/warehouse-rack-top-cleaning.webp",
+    "sha256": "607c00ecdd0561ca86ca2837a7cad89a170c42df5454115805bf3792c4911ef4"
+  },
+  {
+    "slug": "gymnasium-overhead-cleaning",
+    "prompt": "Use case: ads-marketing. Asset type: commercial high dusting service website hero, illustrative architecture rather than an actual client project. Create exactly one original photorealistic commercial architectural photograph, landscape 3:2, 1536x1024. Scene: a bright modern school gymnasium viewed diagonally upward, showing a realistically raised retractable basketball backboard with credible hinged ceiling supports, steel roof trusses, and overhead structural surfaces. Place the raised basketball assembly and clear roof truss structure toward the right two thirds; a small lower edge glimpse of polished gym floor and simple court lines anchors the scene. The backboard is stored raised near the ceiling, not hanging in an impossible configuration. Broad empty dark navy upper wall or shadowed architectural area on the left third suitable for heading overlay. Natural daylight from high clerestory windows on the right, steel grey and navy architectural colors, accurate crisp commercial architectural photography with believable scale and structural connections. No people, no text, no school emblems, no logos, no scoreboard writing, no watermark, no collage. Distinct airy gym atmosphere.",
+    "original_png_path": "/Users/grafov/.codex/generated_images/01a0a2e0-1190-7701-879d-8ba46f0caa29/exec-9976ffa2-8e6d-48d2-b13e-1b479408a77b.png",
+    "project_path": "assets/services/gymnasium-overhead-cleaning.webp",
+    "webp_path": "/Users/grafov/Documents/ChatGPT/HighDusting.ca/assets/services/gymnasium-overhead-cleaning.webp",
+    "sha256": "b34eaf00e6365f12f0ea4cd2c46926e83413a1b9cfeb4caf8d3feaf99cab66a7"
+  }
+]

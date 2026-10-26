@@ -1,0 +1,418 @@
+[
+  {
+    "slug": "toronto",
+    "name": "Toronto",
+    "province": "ON",
+    "focus": "retail",
+    "nearby": "Mississauga, Markham, Vaughan",
+    "brief": "For a commercial building with several occupants, separate the overhead scope by tenant area. Record concierge access, loading arrangements and which spaces can be closed while cleaning takes place. A single work window may need several smaller zones."
+  },
+  {
+    "slug": "mississauga",
+    "name": "Mississauga",
+    "province": "ON",
+    "focus": "warehouses",
+    "nearby": "Brampton, Toronto, Oakville",
+    "brief": "Start a distribution-centre request with a marked aisle plan. Show rack height separately from roof height, and identify pick faces that must stay accessible. This makes it possible to discuss phased overhead work without treating the whole warehouse as an empty room."
+  },
+  {
+    "slug": "brampton",
+    "name": "Brampton",
+    "province": "ON",
+    "focus": "warehouses",
+    "nearby": "Mississauga, Vaughan, Toronto",
+    "brief": "For a warehouse with busy receiving operations, describe dispatch peaks and the routes used by lift trucks. Include dock canopies and elevated ledges only if you want them in scope. Agree how inventory below the cleaning zone will be protected."
+  },
+  {
+    "slug": "vaughan",
+    "name": "Vaughan",
+    "province": "ON",
+    "focus": "food-processing",
+    "nearby": "Brampton, Markham, Toronto",
+    "brief": "In a food storage or packaging environment, distinguish sealed stock from exposed product. Identify overhead surfaces near packaging lines, temperature-controlled spaces and sanitation boundaries so the scope can be reviewed with your quality team."
+  },
+  {
+    "slug": "markham",
+    "name": "Markham",
+    "province": "ON",
+    "focus": "manufacturing",
+    "nearby": "Toronto, Vaughan, Richmond Hill",
+    "brief": "If your facility handles electronics or precision assemblies, identify open workstations and sensitive equipment before planning overhead work. Ask for separate zones around assembly benches, stores and customer-facing areas rather than one undifferentiated floor-area estimate."
+  },
+  {
+    "slug": "hamilton",
+    "name": "Hamilton",
+    "province": "ON",
+    "focus": "manufacturing",
+    "nearby": "Burlington, Oakville, Brantford",
+    "brief": "For a fabrication space, tell us what creates the settled material and whether it may contain metal fines or other process residues. Include crane travel and overhead obstructions in access photos. Dust identification comes before choosing vacuum equipment."
+  },
+  {
+    "slug": "ottawa",
+    "name": "Ottawa",
+    "province": "ON",
+    "focus": "education",
+    "nearby": "Gatineau, Kanata, Nepean",
+    "brief": "For an institutional or office portfolio, list buildings individually and flag access-control requirements. Ceiling geometry in atria may call for a different approach from service corridors. Include escort arrangements and occupied-space restrictions in the request."
+  },
+  {
+    "slug": "london",
+    "name": "London",
+    "province": "ON",
+    "focus": "food-processing",
+    "nearby": "St. Thomas, Woodstock, Strathroy",
+    "brief": "For a processing or packaging plant, map the boundary between production and warehousing. Tell us whether the clean is intended to precede sanitation or maintenance, and identify the responsible site contact for each area."
+  },
+  {
+    "slug": "kitchener",
+    "name": "Kitchener",
+    "province": "ON",
+    "focus": "manufacturing",
+    "nearby": "Waterloo, Cambridge, Guelph",
+    "brief": "For a mixed workshop and warehouse, group overhead surfaces by the activity below them. Machine cells, test areas and storage aisles may need different protection and access arrangements even when they share the same ceiling."
+  },
+  {
+    "slug": "waterloo",
+    "name": "Waterloo",
+    "province": "ON",
+    "focus": "education",
+    "nearby": "Kitchener, Cambridge, Guelph",
+    "brief": "For campus spaces, include term dates, bookings and public access routes in the planning notes. A gym, atrium and laboratory support corridor should be assessed separately. Highlight any research equipment that cannot be moved or exposed."
+  },
+  {
+    "slug": "cambridge",
+    "name": "Cambridge",
+    "province": "ON",
+    "focus": "manufacturing",
+    "nearby": "Kitchener, Waterloo, Guelph",
+    "brief": "For a production line, show where conveyors or guarding interrupt lift access. Identify a usable maintenance window and any equipment isolation your facility team must arrange. Floor area alone will not describe the reach needed above a line."
+  },
+  {
+    "slug": "guelph",
+    "name": "Guelph",
+    "province": "ON",
+    "focus": "food-processing",
+    "nearby": "Cambridge, Kitchener, Milton",
+    "brief": "For a food-related facility, separate dry storage dust from residues associated with production. Let your sanitation lead define product protection and cleaning boundaries. Photos of beams above individual zones help build a more useful scope."
+  },
+  {
+    "slug": "windsor",
+    "name": "Windsor",
+    "province": "ON",
+    "focus": "manufacturing",
+    "nearby": "Tecumseh, LaSalle, Lakeshore",
+    "brief": "For a tooling or assembly building, flag overhead cranes, suspended services and changes in floor elevation. Where work coincides with maintenance, include the order in which equipment will be shut down and made accessible."
+  },
+  {
+    "slug": "oshawa",
+    "name": "Oshawa",
+    "province": "ON",
+    "focus": "manufacturing",
+    "nearby": "Whitby, Ajax, Clarington",
+    "brief": "For a large production or service building, identify the bays that share access equipment and the bays that must remain operational. An overhead clean can be discussed as a sequence of areas, with each handover tied to your schedule."
+  },
+  {
+    "slug": "burlington",
+    "name": "Burlington",
+    "province": "ON",
+    "focus": "warehouses",
+    "nearby": "Hamilton, Oakville, Milton",
+    "brief": "For a warehouse with offices or a showroom attached, list the spaces as separate work areas. Elevated signage and decorative fixtures may require a different finish from structural warehouse steel. Include customer opening times alongside shipping hours."
+  },
+  {
+    "slug": "oakville",
+    "name": "Oakville",
+    "province": "ON",
+    "focus": "retail",
+    "nearby": "Burlington, Mississauga, Milton",
+    "brief": "For a showroom or commercial property, describe the surfaces directly below high fixtures: vehicles, displays, furniture or finished flooring. Include lighting-control access and any ceiling finishes that require manufacturer-specific care."
+  },
+  {
+    "slug": "barrie",
+    "name": "Barrie",
+    "province": "ON",
+    "focus": "warehouses",
+    "nearby": "Innisfil, Orillia, Bradford West Gwillimbury",
+    "brief": "For a facility with seasonal inventory changes, choose a work window when storage layouts are representative of the planned clean. Send photos of both open aisles and the tightest access points so equipment needs can be reviewed realistically."
+  },
+  {
+    "slug": "kingston",
+    "name": "Kingston",
+    "province": "ON",
+    "focus": "education",
+    "nearby": "Loyalist, Gananoque, South Frontenac",
+    "brief": "For a campus or recreation building, note differences between older roof structures and newer additions. Include balcony access, sports bookings and fragile finishes in the scope. A building-by-building request is useful for a mixed property portfolio."
+  },
+  {
+    "slug": "greater-sudbury",
+    "name": "Greater Sudbury",
+    "province": "ON",
+    "focus": "manufacturing",
+    "nearby": "Espanola, Markstay-Warren, St. Charles",
+    "brief": "For an equipment workshop, describe the materials handled on site and what may settle on overhead steel. Distinguish service bays from office and parts-storage areas. Oversized doors do not by themselves establish that a lift can reach every surface."
+  },
+  {
+    "slug": "thunder-bay",
+    "name": "Thunder Bay",
+    "province": "ON",
+    "focus": "warehouses",
+    "nearby": "Shuniah, Oliver Paipoonge, Neebing",
+    "brief": "For a warehouse or industrial service building, include the delivery address, receiving arrangements and access-equipment availability early. If several buildings need attention, document distances and access conditions between them before grouping the work."
+  },
+  {
+    "slug": "montreal",
+    "name": "Montréal",
+    "province": "QC",
+    "focus": "warehouses",
+    "nearby": "Laval, Longueuil, Brossard",
+    "brief": "Pour un centre de distribution, distinguez la hauteur des rayonnages de celle du plafond. Précisez les heures de réception et les allées qui doivent rester accessibles. Ajoutez les exigences de protection des marchandises sous chaque zone à nettoyer."
+  },
+  {
+    "slug": "quebec-city",
+    "name": "Québec",
+    "province": "QC",
+    "focus": "education",
+    "nearby": "Lévis, L’Ancienne-Lorette, Saint-Augustin-de-Desmaures",
+    "brief": "Pour un bâtiment institutionnel, décrivez séparément les atriums, les gymnases et les corridors de service. Signalez les horaires d’occupation, les accès restreints et les revêtements délicats afin de définir une méthode adaptée à chaque espace."
+  },
+  {
+    "slug": "laval",
+    "name": "Laval",
+    "province": "QC",
+    "focus": "food-processing",
+    "nearby": "Montréal, Terrebonne, Boisbriand",
+    "brief": "Pour un espace alimentaire, indiquez les zones de produits ouverts, d’emballage et d’entreposage. Votre équipe qualité peut préciser les limites sanitaires et l’ordre des interventions. Les photos doivent montrer les surfaces en hauteur et ce qui se trouve dessous."
+  },
+  {
+    "slug": "gatineau",
+    "name": "Gatineau",
+    "province": "QC",
+    "focus": "education",
+    "nearby": "Ottawa, Chelsea, Cantley",
+    "brief": "Pour un portefeuille de bâtiments, préparez une liste des adresses et des personnes-ressources. Les autorisations d’accès, les escortes et les horaires publics peuvent varier selon le site. Distinguez ces contraintes avant de regrouper les interventions."
+  },
+  {
+    "slug": "longueuil",
+    "name": "Longueuil",
+    "province": "QC",
+    "focus": "manufacturing",
+    "nearby": "Brossard, Boucherville, Saint-Bruno-de-Montarville",
+    "brief": "Pour un atelier d’assemblage, identifiez les postes sensibles et les équipements qui empêchent l’accès direct au plafond. Décrivez les périodes d’arrêt possibles ainsi que les protections à prévoir sous les poutres et les conduits."
+  },
+  {
+    "slug": "sherbrooke",
+    "name": "Sherbrooke",
+    "province": "QC",
+    "focus": "manufacturing",
+    "nearby": "Magog, Windsor, Coaticook",
+    "brief": "Pour un atelier ou un établissement d’enseignement, divisez la demande selon l’usage des pièces. Les zones d’essai, les réserves et les espaces occupés peuvent nécessiter des méthodes et des horaires différents, même sous une toiture commune."
+  },
+  {
+    "slug": "trois-rivieres",
+    "name": "Trois-Rivières",
+    "province": "QC",
+    "focus": "manufacturing",
+    "nearby": "Bécancour, Shawinigan, Nicolet",
+    "brief": "Pour une installation industrielle, précisez la nature des dépôts et les obstacles en hauteur. Les ponts roulants, les conduites et les passerelles doivent apparaître dans les photos d’accès. Tout résidu potentiellement dangereux exige une évaluation distincte."
+  },
+  {
+    "slug": "vancouver",
+    "name": "Vancouver",
+    "province": "BC",
+    "focus": "retail",
+    "nearby": "Burnaby, Richmond, North Vancouver",
+    "brief": "For a commercial property with restricted delivery space, include loading access and the route from the entrance to the work area. Atrium height, lift dimensions and floor finishes all matter when considering equipment in an occupied building."
+  },
+  {
+    "slug": "surrey",
+    "name": "Surrey",
+    "province": "BC",
+    "focus": "warehouses",
+    "nearby": "Langley, Delta, White Rock",
+    "brief": "For a warehouse combining storage and dispatch, outline which aisles can be released at a time. Include racking overhangs, pedestrian routes and any areas where stock cannot be covered or relocated during overhead cleaning."
+  },
+  {
+    "slug": "burnaby",
+    "name": "Burnaby",
+    "province": "BC",
+    "focus": "manufacturing",
+    "nearby": "Vancouver, New Westminster, Coquitlam",
+    "brief": "For a production, media or workshop space, identify suspended fixtures and sensitive equipment in the overhead zone. Describe rigging restrictions and who can authorize access near services. Fixture cleaning must not become equipment adjustment."
+  },
+  {
+    "slug": "richmond",
+    "name": "Richmond",
+    "province": "BC",
+    "focus": "warehouses",
+    "nearby": "Vancouver, Delta, New Westminster",
+    "brief": "For a freight or storage facility, identify security-controlled zones and receiving windows in the request. Include clearances through doors as well as the working height inside. External access arrangements may need to be coordinated separately."
+  },
+  {
+    "slug": "abbotsford",
+    "name": "Abbotsford",
+    "province": "BC",
+    "focus": "food-processing",
+    "nearby": "Mission, Chilliwack, Langley",
+    "brief": "For a food storage or processing building, explain whether production and storage share airspace. Specify product-protection boundaries and planned sanitation windows. Organic dust needs material-specific assessment before a removal method is chosen."
+  },
+  {
+    "slug": "victoria",
+    "name": "Victoria",
+    "province": "BC",
+    "focus": "retail",
+    "nearby": "Saanich, Esquimalt, Langford",
+    "brief": "For an occupied public-facing building, include public opening hours, delivery access and any heritage or decorative finishes. High-level fixtures may need separate treatment from exposed beams. Describe which areas can be isolated from visitors."
+  },
+  {
+    "slug": "kelowna",
+    "name": "Kelowna",
+    "province": "BC",
+    "focus": "food-processing",
+    "nearby": "West Kelowna, Lake Country, Vernon",
+    "brief": "For a beverage, packaging or storage site, identify seasonal work windows and areas with moisture-sensitive finishes. Distinguish overhead structural dust from process residues; each may call for a different assessment and scope."
+  },
+  {
+    "slug": "kamloops",
+    "name": "Kamloops",
+    "province": "BC",
+    "focus": "warehouses",
+    "nearby": "Logan Lake, Barrière, Chase",
+    "brief": "For a distribution or maintenance facility, include the largest and smallest work bays in your photos. Show equipment routes and any uneven floor transitions. A practical access plan should account for both overhead reach and movement between bays."
+  },
+  {
+    "slug": "nanaimo",
+    "name": "Nanaimo",
+    "province": "BC",
+    "focus": "warehouses",
+    "nearby": "Lantzville, Parksville, Ladysmith",
+    "brief": "For a commercial or warehouse project, identify whether access equipment is already on site and when deliveries can be received. If your scope spans several properties, list each address and operating window so travel and mobilisation can be assessed."
+  },
+  {
+    "slug": "calgary",
+    "name": "Calgary",
+    "province": "AB",
+    "focus": "warehouses",
+    "nearby": "Airdrie, Rocky View County, Chestermere",
+    "brief": "For a tall distribution centre, record the uppermost ledge to clean rather than only the nominal roof height. Send aisle-width information and note any mezzanines. Reach and floor loading should be considered before an access method is proposed."
+  },
+  {
+    "slug": "edmonton",
+    "name": "Edmonton",
+    "province": "AB",
+    "focus": "manufacturing",
+    "nearby": "St. Albert, Sherwood Park, Leduc",
+    "brief": "For an industrial workshop, separate the general building dust from material generated by fabrication or maintenance. Include crane zones, equipment isolation and protected workstations. A clear material description is essential to the equipment assessment."
+  },
+  {
+    "slug": "red-deer",
+    "name": "Red Deer",
+    "province": "AB",
+    "focus": "manufacturing",
+    "nearby": "Blackfalds, Lacombe, Red Deer County",
+    "brief": "For a service shop with several bays, describe how each bay is used and when it can be released. Overhead doors, heaters and suspended lines can interrupt access. Include those details with the beam and rafter cleaning request."
+  },
+  {
+    "slug": "lethbridge",
+    "name": "Lethbridge",
+    "province": "AB",
+    "focus": "food-processing",
+    "nearby": "Coaldale, Coalhurst, Lethbridge County",
+    "brief": "For a processing or dry-storage facility, identify product contact concerns and the site's sanitation sequence. Do not treat flour, feed or other organic material as ordinary settled dust without a separate suitability assessment."
+  },
+  {
+    "slug": "fort-mcmurray",
+    "name": "Fort McMurray",
+    "province": "AB",
+    "focus": "manufacturing",
+    "nearby": "Wood Buffalo, Anzac, Fort McKay",
+    "brief": "For a maintenance or support building, provide site orientation requirements, the exact access point and the contact responsible for equipment release. Include mobilisation and accommodation constraints when relevant to a remote or controlled-access site."
+  },
+  {
+    "slug": "saskatoon",
+    "name": "Saskatoon",
+    "province": "SK",
+    "focus": "food-processing",
+    "nearby": "Warman, Martensville, Corman Park",
+    "brief": "For agricultural processing or storage, describe the material that accumulates above the work area and any site dust assessment already completed. Cleaning equipment must be selected for the material; standard vacuum filtration is not a substitute for that review."
+  },
+  {
+    "slug": "regina",
+    "name": "Regina",
+    "province": "SK",
+    "focus": "warehouses",
+    "nearby": "White City, Pilot Butte, Emerald Park",
+    "brief": "For a warehouse or equipment facility, map access around parked machinery, pallet storage and overhead services. Include clear operating windows and the sequence in which areas can be made available for an overhead clean."
+  },
+  {
+    "slug": "winnipeg",
+    "name": "Winnipeg",
+    "province": "MB",
+    "focus": "warehouses",
+    "nearby": "West St. Paul, East St. Paul, Headingley",
+    "brief": "For a multi-shift distribution building, identify the quietest work windows by zone rather than by building alone. Share the schedule for receiving, picking and dispatch so a phased scope can be discussed with your operations team."
+  },
+  {
+    "slug": "brandon",
+    "name": "Brandon",
+    "province": "MB",
+    "focus": "food-processing",
+    "nearby": "Cornwallis, Shilo, Minnedosa",
+    "brief": "For a processing or storage project, identify the boundary between routine overhead dust removal and specialist sanitation work. Include the production calendar, product protection and any equipment the site team must isolate before cleaning."
+  },
+  {
+    "slug": "halifax",
+    "name": "Halifax",
+    "province": "NS",
+    "focus": "warehouses",
+    "nearby": "Dartmouth, Bedford, Sackville",
+    "brief": "For a logistics or commercial portfolio, give the exact building address and identify each distinct work area. A regional request may involve very different ceiling structures and access arrangements. Record dock activity and public access separately."
+  },
+  {
+    "slug": "moncton",
+    "name": "Moncton",
+    "province": "NB",
+    "focus": "warehouses",
+    "nearby": "Dieppe, Riverview, Shediac",
+    "brief": "For a distribution facility, describe the goods being stored and the frequency of stock movement. Include aisle release windows and any refrigerated or enclosed zones. These boundaries help distinguish a single clean from several coordinated scopes."
+  },
+  {
+    "slug": "st-johns",
+    "name": "St. John’s",
+    "province": "NL",
+    "focus": "retail",
+    "nearby": "Mount Pearl, Paradise, Conception Bay South",
+    "brief": "For a commercial or service building, include equipment-delivery access and available staging space. Tell us whether several properties share one work window. Scope and mobilisation are confirmed together rather than assuming identical access at every address."
+  },
+  {
+    "slug": "charlottetown",
+    "name": "Charlottetown",
+    "province": "PE",
+    "focus": "retail",
+    "nearby": "Stratford, Cornwall, Brackley",
+    "brief": "For a retail, recreation or institutional building, note seasonal operating patterns and public bookings. Include access through finished spaces and the surfaces requiring protection below fixtures, fans and structural ledges."
+  },
+  {
+    "slug": "whitehorse",
+    "name": "Whitehorse",
+    "province": "YT",
+    "focus": "warehouses",
+    "nearby": "Ibex Valley, Marsh Lake, Carcross",
+    "brief": "For a northern warehouse or public building, identify local equipment availability and delivery timing at the start. Describe storage, access and the planned work season. Mobilisation is assessed for the actual site before a service date is agreed."
+  },
+  {
+    "slug": "yellowknife",
+    "name": "Yellowknife",
+    "province": "NT",
+    "focus": "manufacturing",
+    "nearby": "Dettah, N’Dilo, Behchokǫ̀",
+    "brief": "For a service facility, include site-entry requirements and the availability of suitable access equipment. A clear list of buildings and overhead areas helps evaluate mobilisation. Work dates depend on the confirmed local delivery arrangements."
+  },
+  {
+    "slug": "iqaluit",
+    "name": "Iqaluit",
+    "province": "NU",
+    "focus": "education",
+    "nearby": "Apex, Nunavut facilities",
+    "brief": "For a public or commercial facility, start with site access, equipment availability and practical mobilisation options. Photographs of entrances and ceiling structures help determine feasibility before pricing. Remote logistics require location-specific planning."
+  }
+]

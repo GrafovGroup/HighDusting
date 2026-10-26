@@ -1,0 +1,67 @@
+[
+  {
+    "code": "NL",
+    "slug": "newfoundland-and-labrador",
+    "name": "Newfoundland and Labrador"
+  },
+  {
+    "code": "PE",
+    "slug": "prince-edward-island",
+    "name": "Prince Edward Island"
+  },
+  {
+    "code": "NS",
+    "slug": "nova-scotia",
+    "name": "Nova Scotia"
+  },
+  {
+    "code": "NB",
+    "slug": "new-brunswick",
+    "name": "New Brunswick"
+  },
+  {
+    "code": "QC",
+    "slug": "quebec",
+    "name": "Quebec"
+  },
+  {
+    "code": "ON",
+    "slug": "ontario",
+    "name": "Ontario"
+  },
+  {
+    "code": "MB",
+    "slug": "manitoba",
+    "name": "Manitoba"
+  },
+  {
+    "code": "SK",
+    "slug": "saskatchewan",
+    "name": "Saskatchewan"
+  },
+  {
+    "code": "AB",
+    "slug": "alberta",
+    "name": "Alberta"
+  },
+  {
+    "code": "BC",
+    "slug": "british-columbia",
+    "name": "British Columbia"
+  },
+  {
+    "code": "YT",
+    "slug": "yukon",
+    "name": "Yukon"
+  },
+  {
+    "code": "NT",
+    "slug": "northwest-territories",
+    "name": "Northwest Territories"
+  },
+  {
+    "code": "NU",
+    "slug": "nunavut",
+    "name": "Nunavut"
+  }
+]
