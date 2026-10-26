@@ -23,7 +23,7 @@
 .brand{display:inline-flex;flex:none;padding:0;line-height:1}
 .brand-art{position:relative;display:block;width:280px;aspect-ratio:1948/460;overflow:hidden}
 .brand .brand-logo{position:absolute;width:105.13%;height:149.13%;max-width:none;left:-2.41%;top:-24.78%;object-fit:fill}
-.footer .brand{background:var(--paper);padding:10px 12px;border-radius:3px;max-width:100%}
+.footer .brand{max-width:100%;mix-blend-mode:screen}
 .footer .brand-art{width:260px;max-width:100%}
 @media(max-width:1250px){.header .brand-art{width:230px}.nav{gap:18px}.nav-actions{gap:14px}}
 @media(max-width:800px){.header .brand-art{width:220px}}
