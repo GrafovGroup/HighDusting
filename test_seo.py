@@ -53,7 +53,7 @@ class SEOTests(unittest.TestCase):
             cls.pages[url] = (html, Metadata(html), HeadAndBreadcrumb(html), scripts)
 
     def test_unique_metadata_and_indexable_canonicals(self):
-        self.assertEqual(len(self.pages), 100)
+        self.assertEqual(len(self.pages), 101)
         titles = []
         descriptions = []
         for url, (_, doc, head, _) in self.pages.items():

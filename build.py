@@ -63,6 +63,9 @@ print(f'Built {len(paths)} pages and 404 page.')
 import expansion
 expansion.build(globals())
 
+import french_home
+french_home.build(globals())
+
 # Derive metadata from the final pages, after all localized content is rendered.
 import seo
 seo.build(ROOT)

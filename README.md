@@ -1,6 +1,6 @@
 # HighDusting.ca
 
-Image-rich B2B website based on the previous “High Dusting Business Plan” conversation. Includes 100 indexable pages: 52 cities, 13 province/territory hubs, 20 services, six industries, directories, homepage and privacy notices, plus two cost guides and a French post-construction service page. Also includes a custom 404 and a single-step quote form.
+Image-rich B2B website based on the previous “High Dusting Business Plan” conversation. Includes 101 indexable pages: 52 cities, 13 province/territory hubs, 20 services, six industries, directories, homepage and privacy notices, plus two cost guides and a French post-construction service page. Also includes a custom 404 and a single-step quote form.
 
 ## Run
 
@@ -17,7 +17,7 @@ Open http://127.0.0.1:4321. On this Mac, the bundled Python executable is `/User
 
 ## Quote handling
 
-All 98 quote forms submit directly to `https://formspree.io/f/mqpkndrp` using vanilla JavaScript AJAX. The endpoint is declared in the base form’s `action`; `formspree.js` sends multipart `FormData` with `Accept: application/json`. The single-step controller in `app.js` handles validation, state, localized messages and duplicate-submit prevention. No additional form library or SMTP credentials are needed.
+All 99 quote forms submit directly to `https://formspree.io/f/mqpkndrp` using vanilla JavaScript AJAX. The endpoint is declared in the base form’s `action`; `formspree.js` sends multipart `FormData` with `Accept: application/json`. The single-step controller in `app.js` handles validation, state, localized messages and duplicate-submit prevention. No additional form library or SMTP credentials are needed.
 
 The form asks for name, email, city/province and a short message, with optional phone. Photos/videos are emailed separately to info@highdusting.ca. It retains the contact-consent checkbox. Detailed facility questions are handled during follow-up. The payload includes those details, selected city/service, submission page, originating page and language. File inputs are deliberately absent: a live test returned HTTP 400, File Uploads Not Permitted. Do not restore uploads until the provider account supports them and a live upload succeeds. Recipient delivery, domain restrictions, spam protection and account quotas are managed in the Formspree dashboard. Provider-side validations should match the required fields; browser validation alone is not an abuse boundary.
 
@@ -30,7 +30,7 @@ OpenAI Sites is the selected host and GoDaddy manages the domain. The public web
 ## Validation
 
 ```sh
-python3 -m unittest test_content test_seo test_growth
+python3 -m unittest test_content test_seo test_growth test_french
 node --test test_formspree.cjs
 python3 test_server.py
 ```
@@ -55,7 +55,7 @@ The build emits unique titles and descriptions, canonical URLs, matching Open Gr
 
 All 20 services include visible answers about their specific scope, cost factors and quote preparation. These are normal HTML and remain readable without JavaScript. Structured data describes the visible content; no special AI-only schema, fake reviews, prices or credentials are added. `sitemap.xml` includes only authored canonical pages and their actual displayed images. The 404 has `noindex` and no homepage canonical.
 
-Run `python3 -m unittest test_content test_seo test_growth` after rebuilding. This checks all generated routes/assets, distinct required images, unique metadata, linked graph references, visible breadcrumb agreement, language consistency, service answers and image sitemap coverage. These are local content checks; they do not establish live indexing, ranking or rich-result eligibility.
+Run `python3 -m unittest test_content test_seo test_growth test_french` after rebuilding. This checks all generated routes/assets, distinct required images, unique metadata, linked graph references, visible breadcrumb agreement, language consistency, service answers and image sitemap coverage. These are local content checks; they do not establish live indexing, ranking or rich-result eligibility.
 
 After production deployment, verify the actual domain in Google Search Console and Bing Webmaster Tools, submit the sitemap, inspect representative English/French/service/city URLs, and measure enquiries against search performance. Add real project photos, permissioned case studies and substantiated business credentials as they become available. Expansion to further cities should add useful local information, not just substituted place names.
 
@@ -78,3 +78,11 @@ The 100 indexable pages include 73 Service entities (52 cities, 20 English servi
 `niche_services.py` owns acoustic baffle/ceiling cloud dusting, warehouse rack-top cleaning and gymnasium overhead cleaning. Each service has its own photo, planning details, scope boundaries, buyer questions and quote context. Relevant city and industry pages link to these scopes; French city enquiries use localized labels and preserve the selected service. New service navigation uses text cards so each new photo is displayed only on its own page.
 
 Acoustic material boundaries were checked against Armstrong commercial ceiling maintenance guidance: https://www.armstrongceilings.com/commercial/en/technical-downloads/ceiling-maintenance.html. No acoustic performance restoration, rack certification or sports-equipment servicing is claimed.
+
+## French homepage and navigation
+
+`/fr/` is the French national homepage. It covers all 20 service categories, industries, nationwide enquiry coverage, FAQs, French resources and the French quote form. Existing Québec pages remain available at their original URLs. `french_home.py` runs after expansion and before SEO metadata generation.
+
+Every page has a visible EN/FR control outside the collapsed navigation. Home, privacy, post-construction service and cost-guide translations switch to their exact counterparts. Pages without a translated counterpart explicitly label the link as the alternate-language homepage; they do not claim to be equivalent translations. French brand links return to `/fr/`; French navigation stays in French. Reciprocal hreflang metadata is published only for genuine translation pairs.
+
+Validation: 21 Python tests plus four JavaScript transport tests passed; browser checks confirmed EN/FR homepage navigation and French service selection in the quote context. Existing form endpoint, recipient and separate photo-email workflow are preserved.

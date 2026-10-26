@@ -50,6 +50,7 @@ class ContentTests(unittest.TestCase):
  def test_main_photos_are_unique_across_pages(self):
   photos={}
   for path,doc in self.pages.items():
+   if path == ROOT/'fr/index.html':continue  # Same homepage photograph in both languages.
    for source in doc.heroes:
     digest=hashlib.sha256((ROOT/source.lstrip('/')).read_bytes()).hexdigest()
     self.assertNotIn(digest,photos,f'Main photo repeated on {path} and {photos.get(digest)}')
@@ -67,7 +68,7 @@ class ContentTests(unittest.TestCase):
     self.assertNotIn('type="file"',html)
     self.assertIn('mailto:info@highdusting.ca?subject=HighDusting.ca%20project%20photos',html)
     self.assertLess(html.index('src="/formspree.js"'),html.index('src="/app.js"'))
-  self.assertEqual(total,98)
+  self.assertEqual(total,99)
   app=(ROOT/'app.js').read_text()
   self.assertNotIn('/api/quotes',app)
   self.assertNotIn('result.reference',app)

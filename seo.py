@@ -9,7 +9,8 @@ from html import escape
 from html.parser import HTMLParser
 from urllib.parse import urlsplit
 import xml.etree.ElementTree as ET
-from local_growth import TRANSLATIONS, FR_POST_PATH, COST_PATH, FR_COST_PATH
+from local_growth import FR_POST_PATH, COST_PATH, FR_COST_PATH
+from french_home import PAIRS as TRANSLATIONS
 
 SITE = 'https://highdusting.ca'
 SITEMAP_NS = 'http://www.sitemaps.org/schemas/sitemap/0.9'
@@ -50,10 +51,10 @@ class Metadata(HTMLParser):
 def breadcrumbs(path, pages, cities, provinces, language):
     fr = language == 'fr-CA'
     parts = path.strip('/').split('/')
-    trail = [('/', 'Accueil' if fr else 'Home')]
+    trail = [('/fr/' if fr else '/', 'Accueil' if fr else 'Home')]
     for length in range(1, len(parts) + 1):
         route = '/' + '/'.join(parts[:length]) + '/'
-        if route not in pages:
+        if route not in pages or route == trail[0][0]:
             continue
         label = pages[route].title.split(' | ')[0]
         if route == '/locations/':
