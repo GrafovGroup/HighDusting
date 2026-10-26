@@ -86,3 +86,9 @@ Acoustic material boundaries were checked against Armstrong commercial ceiling m
 Every page has a visible EN/FR control outside the collapsed navigation. Home, privacy, post-construction service and cost-guide translations switch to their exact counterparts. Pages without a translated counterpart explicitly label the link as the alternate-language homepage; they do not claim to be equivalent translations. French brand links return to `/fr/`; French navigation stays in French. Reciprocal hreflang metadata is published only for genuine translation pairs.
 
 Validation: 21 Python tests plus four JavaScript transport tests passed; browser checks confirmed EN/FR homepage navigation and French service selection in the quote context. Existing form endpoint, recipient and separate photo-email workflow are preserved.
+
+## Industrial Seal logo
+
+The approved navy/lime Industrial Seal with navy `.ca` is used in every English and French header and footer, including the 404 page. The transparent master is `assets/logo-industrial-seal.png`; CSS crops its transparent padding without altering the artwork. The footer uses a light backing for contrast. `favicon.svg` is a simplified scalable seal. Small-screen headers keep the logo, language switch, and menu, with the existing fixed quote action below.
+
+Validated on desktop and 375px English/French layouts. All 31 Python tests and 4 JavaScript tests passed. The retained local server now serves the existing `/guides/` routes as well.

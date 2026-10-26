@@ -35,7 +35,7 @@ class Metadata(HTMLParser):
             self.language = attrs.get('lang', 'en-CA')
         elif tag == 'meta' and attrs.get('name') == 'description':
             self.description = attrs['content']
-        elif tag == 'img' and attrs.get('src', '').startswith('/assets/'):
+        elif tag == 'img' and attrs.get('src', '').startswith('/assets/') and attrs.get('class') != 'brand-logo':
             if not any(image['src'] == attrs['src'] for image in self.images):
                 self.images.append(attrs)
 
