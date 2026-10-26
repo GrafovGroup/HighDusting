@@ -38,7 +38,7 @@ class Handler(SimpleHTTPRequestHandler):
         path=unquote(urlsplit(self.path).path)
         if any(part.startswith('.') for part in path.split('/') if part) or '..' in path.split('/'):
             return self.send_error(404)
-        permitted = path in ['/', '/index.html','/styles.css','/app.js','/formspree.js','/favicon.svg','/robots.txt','/sitemap.xml','/404.html'] or path.startswith(('/assets/','/services/','/privacy/','/locations/','/industries/','/fr/','/guides/'))
+        permitted = path in ['/', '/index.html','/styles.css','/app.js','/formspree.js','/favicon.svg','/favicon.ico','/favicon-16x16.png','/favicon-32x32.png','/apple-touch-icon.png','/safari-pinned-tab.svg','/site.webmanifest','/robots.txt','/sitemap.xml','/404.html'] or path.startswith(('/assets/','/services/','/privacy/','/locations/','/industries/','/fr/','/guides/'))
         if not permitted: return self.not_found()
         target=(ROOT/path.lstrip('/')).resolve()
         if not target.is_relative_to(ROOT) or not target.exists(): return self.not_found()

@@ -23,7 +23,7 @@ class Assets(HTMLParser):
             self.paths.add(unquote(urlsplit(value).path).lstrip('/'))
 
 
-paths = {'404.html', 'robots.txt', 'sitemap.xml', 'assets/locations.json', 'styles.css', 'app.js', 'formspree.js', 'favicon.svg'}
+paths = {'404.html', 'robots.txt', 'sitemap.xml', 'assets/locations.json', 'styles.css', 'app.js', 'formspree.js', 'favicon.svg', 'assets/icon-192.png', 'assets/icon-512.png'}
 for node in ET.parse(ROOT / 'sitemap.xml').findall(f'.//{NS}loc'):
     route = urlsplit(node.text).path.lstrip('/')
     paths.add(route + 'index.html')

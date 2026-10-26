@@ -92,3 +92,7 @@ Validation: 21 Python tests plus four JavaScript transport tests passed; browser
 The approved navy/lime Industrial Seal with navy `.ca` is used in every English and French header and footer, including the 404 page. The transparent master is `assets/logo-industrial-seal.png`; CSS crops its transparent padding without altering the artwork. The footer uses a white monochrome asset (`assets/logo-industrial-seal-white.png`), with screen blending to remove its black matte on the navy footer. `favicon.svg` is a simplified scalable seal. Small-screen headers keep the logo, language switch, and menu, with the existing fixed quote action below.
 
 Validated on desktop and 375px English/French layouts. All 31 Python tests and 4 JavaScript tests passed. The retained local server now serves the existing `/guides/` routes as well.
+
+## Browser icons
+
+All pages, including French and 404, declare a square SVG, 16/32px PNG fallbacks, a multi-resolution root ICO (16/32/48px), a 180px Apple touch icon, a Safari monochrome pinned-tab mask, and a web manifest with 192/512px icons. Navy fill and a lime outer border keep the mark visible on light and dark surfaces. Versioned links refresh prior browser caches. Browser settings and cached bookmarks may still affect display.
