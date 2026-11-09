@@ -80,7 +80,7 @@ if (form) {
       const success = document.createElement('div');success.className = 'quote-success';success.setAttribute('role','status');
       const heading=document.createElement('h3');heading.textContent=french ? 'Votre demande a été reçue.' : 'Your request has been received.';
       const text=document.createElement('p');text.textContent=french ? 'Merci. Nous communiquerons avec vous pour discuter de votre projet.' : 'Thank you. We’ll be in touch to discuss your project.';
-      const phone=document.createElement('a');phone.href='tel:+18884513878';phone.className='btn dark';phone.textContent=french ? 'Appeler le (888) 451 - DUST (3878) ↗' : 'Call (888) 451 - DUST (3878) ↗';
+      const phone=document.createElement('a');phone.href='tel:+18884513878';phone.className='btn dark';phone.textContent=french ? 'Appeler le (888) 451 - DUST (3878)' : 'Call (888) 451 - DUST (3878)';
       const email = document.createElement('a');email.href='mailto:info@highdusting.ca?subject=HighDusting.ca%20project%20photos';email.className='quote-email';email.textContent=french ? 'Envoyer vos photos à info@highdusting.ca' : 'Email project photos to info@highdusting.ca';
       success.append(heading,text,phone,email);form.append(success);success.tabIndex=-1;success.focus();
     } catch (err) {
@@ -150,7 +150,7 @@ if (searchForm) {
       const a=document.createElement('a');a.className='location-result';a.href=place.url;
       const name=document.createElement('strong');name.textContent=place.name;
       const region=document.createElement('span');region.textContent=[place.province,place.division].filter(Boolean).join(' · ');
-      const action=document.createElement('small');action.textContent=place.featured?'Explore local services ↗':'Request an assessment here ↗';
+      const action=document.createElement('small');action.textContent=place.featured?'Explore local services':'Request an assessment here';
       a.append(name,region,action);resultBox.append(a);
     }
     visible=Math.min(visible+48,filtered.length);more.hidden=visible>=filtered.length;
@@ -158,7 +158,7 @@ if (searchForm) {
     if(!filtered.length){
       const empty=document.createElement('div');empty.className='empty-locations';
       const text=document.createElement('p');text.textContent='No matching community in the directory. You can still request an assessment for your address.';
-      const link=document.createElement('a');link.className='btn';link.textContent='Use this location ↗';link.href='/?'+new URLSearchParams({city:query.value+(province.value?', '+province.value:''),source:'/locations/'})+'#quote';
+      const link=document.createElement('a');link.className='btn';link.textContent='Use this location';link.href='/?'+new URLSearchParams({city:query.value+(province.value?', '+province.value:''),source:'/locations/'})+'#quote';
       empty.append(text,link);resultBox.append(empty);
     }
   }

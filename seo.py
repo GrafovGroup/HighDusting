@@ -117,7 +117,7 @@ def build(root):
                      'contentUrl': SITE + primary['src'], 'caption': primary.get('alt', '')}
             graph.append(image)
             webpage['primaryImageOfPage'] = {'@id': image['@id']}
-        if path != '/':
+        if path not in ('/', '/fr/'):
             trail = breadcrumbs(path, pages, cities, provinces, doc.language)
             breadcrumb_id = url + '#breadcrumb'
             graph.append({'@type': 'BreadcrumbList', '@id': breadcrumb_id,

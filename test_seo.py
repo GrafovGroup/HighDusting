@@ -90,7 +90,7 @@ class SEOTests(unittest.TestCase):
                     for child in value:
                         check_refs(child)
             check_refs(graph)
-            if url != SITE + '/':
+            if url not in (SITE + '/', SITE + '/fr/'):
                 crumbs = nodes[url + '#breadcrumb']['itemListElement']
                 self.assertEqual([c['position'] for c in crumbs], list(range(1, len(crumbs) + 1)))
                 self.assertEqual(head.crumb_text, ' / '.join(c['name'] for c in crumbs))

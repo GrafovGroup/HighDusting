@@ -32,4 +32,4 @@ def render(slug):
             '<div><div class="eyebrow">Before you request a quote</div><h2>Your scope.<br>Clear answers.</h2>'
             '<p>Use these details to prepare a facility-specific request.</p></div><div>'
             + ''.join(f'<details open><summary>{escape(q)}</summary><p>{escape(a)}</p></details>' for q, a in questions)
-            + '<div class="resource-links"><a href="/guides/high-dusting-cost/">Read the high dusting cost guide ↗</a><a href="#quote">Request your facility quote ↗</a></div></div></div></section>')
+            + '<div class="resource-links"><a href="/guides/high-dusting-cost/">Read the high dusting cost guide</a><a href="#quote">Request your facility quote</a></div></div></div></section>')

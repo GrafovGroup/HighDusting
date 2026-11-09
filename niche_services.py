@@ -95,15 +95,15 @@ def links(focus, city='', origin='', fr=False):
         if city:
             target += '?' + urlencode({'city': city, 'source': origin})
         if fr:
-            anchors.append('<a href="#quote" data-service-choice="' + slug + '">' + e(FR_NICHE[slug]) + ' ↗</a>')
+            anchors.append('<a href="#quote" data-service-choice="' + slug + '">' + e(FR_NICHE[slug]) + '</a>')
         else:
-            anchors.append('<a href="' + e(target) + '">' + e(titles[slug]) + ' ↗</a>')
+            anchors.append('<a href="' + e(target) + '">' + e(titles[slug]) + '</a>')
     return '<section class="section niche-links" id="specialist-surfaces"><div class="container"><h2>' + heading + '</h2><p class="planning-note">' + e(intro) + '</p><div class="resource-links">' + ''.join(anchors) + '</div></div></section>'
 
 
 def local_links(slug, cities, city_url):
     relevant = [c for c in cities if slug in FOCUS_SERVICES.get(c['focus'], [])]
-    anchors = ''.join('<a href="' + city_url(c) + '#specialist-surfaces">' + e(c['name']) + ' ↗</a>' for c in relevant)
+    anchors = ''.join('<a href="' + city_url(c) + '#specialist-surfaces">' + e(c['name']) + '</a>' for c in relevant)
     return ('<section class="section"><div class="container"><h2>Plan for your location</h2>'
             '<p class="planning-note">Explore the facility planning notes for your city, or include another location in your quote request. Access, equipment and local availability are confirmed for each project.</p>'
-            '<div class="industry-chips">' + anchors + '</div><p class="planning-note"><a class="text-link" href="/locations/">Find another Canadian city ↗</a></p></div></section>')
+            '<div class="industry-chips">' + anchors + '</div><p class="planning-note"><a class="text-link" href="/locations/">Find another Canadian city</a></p></div></section>')

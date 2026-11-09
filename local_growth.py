@@ -98,15 +98,15 @@ def city_sections(city, origin):
     note = FR_COST_NOTES[city['focus']] if fr else COST_NOTES[city['focus']]
     return (f'<section class="section local-planning" id="post-construction"><div class="container planning-grid">'
             f'<article class="planning-card"><div class="eyebrow">{"Après les travaux" if fr else "Builds & renovations"}</div><h2>{heading}</h2>'
-            f'<p>{e(CITY_HANDOVERS[city["slug"]])}</p><a class="text-link" href="{e(post)}">{"Voir le service après construction" if fr else "Explore post-construction cleaning"} ↗</a></article>'
+            f'<p>{e(CITY_HANDOVERS[city["slug"]])}</p><a class="text-link" href="{e(post)}">{"Voir le service après construction" if fr else "Explore post-construction cleaning"}</a></article>'
             f'<article class="planning-card" id="cost"><div class="eyebrow">{"Préparer le budget" if fr else "Planning your budget"}</div><h2>{cost_heading}</h2>'
             f'<p>{e(note)}</p><p>{"Une courte description et votre ville suffisent pour commencer. Les détails techniques peuvent être précisés lors du suivi." if fr else "Start with your city and a short description. We can discuss measurements, access and timing during follow-up."}</p>'
-            f'<a class="text-link" href="{e(cost)}">{"Lire le guide des prix" if fr else "Read the cost guide"} ↗</a></article></div></section>')
+            f'<a class="text-link" href="{e(cost)}">{"Lire le guide des prix" if fr else "Read the cost guide"}</a></article></div></section>')
 
 
 def resource_links(fr=False):
-    return (f'<div class="resource-links"><a href="{FR_POST_PATH if fr else POST_PATH}">{"Dépoussiérage après construction" if fr else "Post-construction high dusting"} ↗</a>'
-            f'<a href="{FR_COST_PATH if fr else COST_PATH}">{"Guide des prix" if fr else "High dusting cost guide"} ↗</a></div>')
+    return (f'<div class="resource-links"><a href="{FR_POST_PATH if fr else POST_PATH}">{"Dépoussiérage après construction" if fr else "Post-construction high dusting"}</a>'
+            f'<a href="{FR_COST_PATH if fr else COST_PATH}">{"Guide des prix" if fr else "High dusting cost guide"}</a></div>')
 
 
 def post_details(fr=False):
@@ -147,4 +147,4 @@ def cost_article(fr=False):
     return ('<section class="section"><div class="container guide-content"><h2>'+title+'</h2><p class="guide-lead">'+intro+'</p>'
             '<div class="cost-table-wrap"><table class="cost-table"><caption>'+('Les principaux facteurs du devis' if fr else 'The main factors behind a high dusting quote')+'</caption><thead><tr>'+''.join('<th scope="col">'+x+'</th>' for x in labels)+'</tr></thead><tbody>'+''.join('<tr><th scope="row">'+row[0]+'</th><td>'+row[1]+'</td><td>'+row[2]+'</td></tr>' for row in rows)+'</tbody></table></div>'
             '<div class="scope-note"><h3>'+('Pourquoi la superficie ne suffit pas' if fr else 'Why floor area is only a starting point')+'</h3><p>'+example+'</p></div>'
-            '<h2>'+compare+'</h2><ul>'+''.join('<li>'+x+'</li>' for x in bullets)+'</ul><h2>'+after+'</h2><p>'+after_text+'</p>'+resource_links(fr)+'<p>'+cta+'</p><a class="btn dark" href="#quote">'+('Demander une soumission' if fr else 'Request a quote')+' ↗</a></div></section>')
+            '<h2>'+compare+'</h2><ul>'+''.join('<li>'+x+'</li>' for x in bullets)+'</ul><h2>'+after+'</h2><p>'+after_text+'</p>'+resource_links(fr)+'<p>'+cta+'</p><a class="btn dark" href="#quote">'+('Demander une soumission' if fr else 'Request a quote')+'</a></div></section>')
